@@ -1,0 +1,91 @@
+% Preamble
+\documentclass[journal=jctcce,manuscript=article,layout=traditional]{achemso}
+
+% Make PDFLaTeX builds reproducible
+\pdfinfoomitdate=1
+\pdfsuppressptexinfo=-1
+\pdftrailerid{}
+\pdfinfo{/Producer()/Creator()}
+
+% Packages
+\usepackage[T1]{fontenc} % Use modern font encodings
+\usepackage{mathtools}
+\usepackage{graphicx}
+\usepackage{lineno}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{physics}
+\usepackage{mathrsfs}
+\usepackage{bm}
+\usepackage{threeparttable}
+\usepackage{float}
+\usepackage{longtable}
+\usepackage{multirow}
+\usepackage{booktabs}
+\usepackage{hyperref}
+\usepackage[section]{placeins}
+\usepackage{makecell}
+
+\renewcommand{\cellalign}{lc}
+\renewcommand{\theadalign}{lc}
+
+% Adjust the page margins
+\geometry{
+  paperwidth=14in,  % Custom page width
+  paperheight=11in, % Custom page height
+  left=2cm,
+  right=2cm,
+  top=2cm,
+  bottom=2cm,
+}
+
+% Configuration
+\SectionNumbersOn
+
+% \warninput command: print standard warning when file does not exist
+\makeatletter
+% \newcommand{\warninput}[1]{\filename@parse{#1}\InputIfFileExists{#1}{}{\message{LaTeX Warning: File `\filename@base.\ifx\filename@ext\relax tex\else\filename@ext\fi' not found on input line \the\inputlineno}}}
+\makeatother
+
+
+% Settings for hyperref
+
+% Metadata
+\title{2023 Table of Dipole Polarizability}
+
+% \author{YingXing Cheng}
+% % \affiliation[Ghent University]{Center for Molecular Modeling (CMM), Ghent University, Technologiepark-Zwijnaarde 46, B-9052, Ghent, Belgium}
+% \affiliation[University of Stuttgart]{Institute of Applied Analysis and Numerical Simulation Numerical Mathematics for High Performance Computing, University of Stuttgart, Pfaffenwaldring 57, 70569, Stuttgart, Germany}
+% % \alsoaffiliation{OPTIONAL}
+% % \email{YingXing.Cheng@ugent.be}
+% \email{yingxing.cheng@mathematik.uni-stuttgart.de}
+
+% \keywords{TODO}
+
+% Document
+\begin{document}
+
+    Static scalar dipole polarizabilities (in atomic units) for neutral atoms.
+    If not otherwise indicated by the state symmetry, $M_L (M_J)$-averaged polarizabilities are
+    listed; $M_L (M_J)$ respectively denotes that the polarizability for each $M_L (M_J)$ state
+    can be found in the reference given. Abbreviations used (uncertainties given here consistently
+    as $\pm$ values): exp.: experimentally determined value; NR: nonrelativistic; R: Relativistic,
+    DK: Scalar relativistic Douglas-Kroll; MVD: mass-velocity-Darwin; SO: Spin-orbit coupled;
+    SF: Dyall's spin-free formalism (scalar relativistic); PP: relativistic pseudopotential;
+    LDA: local (spin) density approximation; PW91: Perdew-Wang 91 functional;
+    RPA: Random phase approximation; PolPot: Polarization potential; MBPT: many-body
+    perturbation theory; CI: configuration interaction; CCSD(T): coupled cluster singles
+    doubles (SD) with perturbative triples; FS Fock-space; CEPA: coupled electron pair
+    approximation; MR: multi-reference; CAS: complete active space; VPA: variational perturbation
+    approach. For all other abbreviations see text or references. If the symmetry of the state
+    is not clearly specified as in Doolen's calculations, the calculation was most likely set
+    at a specific configuration (orbital occupancy) as listed in the Desclaux tables
+    \citenum{Müller1984}, reflecting the ground state symmetry of the specific atom.
+    NB: 1 a.u. $= 0.1481847113 \, \text{\AA}^3 = 1.6487773 \times 10^{-41} \,
+    \text{C m}^2/\text{V}$.
+
+    \input{table_2023}
+
+    \bibliography{references}
+
+\end{document}
