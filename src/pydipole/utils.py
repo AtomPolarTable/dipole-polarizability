@@ -26,9 +26,8 @@ __all__ = ["DATA_PATH", "FNAME_DB", "FNAME_BIB", "SEP", "load_db"]
 DATA_PATH = files("pydipole.data")
 FNAME_DB = DATA_PATH.joinpath("database.csv")
 FNAME_BIB = DATA_PATH.joinpath("references.bib")
-SEP = ";"
+SEP = "|"
 
 
 def load_db():
-    db = pd.read_csv(FNAME_DB, sep=SEP)
-    return db
+    return pd.read_csv(FNAME_DB, sep=SEP)

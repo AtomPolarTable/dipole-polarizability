@@ -25,4 +25,4 @@ def test_csv_file():
     with open(FNAME_DB) as f:
         lines = f.readlines()
     nb_seps = [line.count(SEP) for line in lines]
-    assert set(nb_seps) == {6, 7}
+    assert set(nb_seps) == {6}

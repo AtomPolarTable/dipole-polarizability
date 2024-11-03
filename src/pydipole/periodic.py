@@ -29,33 +29,9 @@ _PERIODIC_TABLE = [
     'Tb', 'Dy', 'Ho', 'Er', 'Tm', 'Yb', 'Lu', 'Hf', 'Ta', 'W', 'Re', 'Os', 'Ir', 'Pt', 'Au', 'Hg',
     'Tl', 'Pb', 'Bi', 'Po', 'At', 'Rn', 'Fr', 'Ra', 'Ac', 'Th', 'Pa', 'U', 'Np', 'Pu', 'Am', 'Cm',
     'Bk', 'Cf', 'Es', 'Fm', 'Md', 'No', 'Lr', 'Rf', 'Db', 'Sg', 'Bh', 'Hs', 'Mt', 'Ds', 'Rg', 'Cn',
-    'Nh', 'Fl', 'Mc', 'Lv', 'Ts', 'Og'
+    'Nh', 'Fl', 'Mc', 'Lv', 'Ts', 'Og', 'Uue', 'Ubn'
 ]
 # fmt: on
-
-_SPECIAL_ELEMENTS = {
-    24: "1s^2 2s^2 2p^6 3s^2 3p^6 4s^1 3d^5",
-    29: "1s^2 2s^2 2p^6 3s^2 3p^6 4s^1 3d^10",
-    41: "1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^10 4p^6 5s^1 4d^4",
-    42: "1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^10 4p^6 5s^1 4d^5",
-    44: "1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^10 4p^6 5s^1 4d^7",
-    45: "1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^10 4p^6 5s^1 4d^8",
-    46: "1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^10 4p^6 4s^10",
-    47: "1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^10 4p^6 5s^1 4d^10",
-    57: "1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^10 4p^6 5s^1 4d^10 5p^6 6s^2 5d^1",
-    58: "1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^10 4p^6 5s^1 4d^10 5p^6 6s^2 4f^1 5d^1",
-    64: "1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^10 4p^6 5s^1 4d^10 5p^6 6s^2 4f^7 5d^1",
-    78: "1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^10 4p^6 5s^2 4d^10 5p^6 6s^1 4f^14 5d^9",
-    79: "1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^10 4p^6 5s^2 4d^10 5p^6 6s^1 4f^14 5d^10",
-    89: "1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^10 4p^6 5s^2 4d^10 5p^6 6s^2 4f^14 5d^10 6p^6 7s^2 6d^1",
-    90: "1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^10 4p^6 5s^2 4d^10 5p^6 6s^2 4f^14 5d^10 6p^6 7s^2 6d^2",
-    91: "1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^10 4p^6 5s^2 4d^10 5p^6 6s^2 4f^14 5d^10 6p^6 7s^2 5f^2 6d^1",
-    92: "1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^10 4p^6 5s^2 4d^10 5p^6 6s^2 4f^14 5d^10 6p^6 7s^2 5f^3 6d^1",
-    93: "1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^10 4p^6 5s^2 4d^10 5p^6 6s^2 4f^14 5d^10 6p^6 7s^2 5f^4 6d^1",
-    96: "1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^10 4p^6 5s^2 4d^10 5p^6 6s^2 4f^14 5d^10 6p^6 7s^2 5f^7 6d^1",
-    103: "1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^10 4p^6 5s^2 4d^10 5p^6 6s^2 4f^14 5d^10 6p^6 7s^2 5f^14 7p^1",
-    110: "1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^10 4p^6 5s^2 4d^10 5p^6 6s^2 4f^14 5d^10 6p^6 7s^1 5f^14 6d^9",
-}
 
 
 class Element:
@@ -70,7 +46,7 @@ class Element:
         The symbol of the element.
     """
 
-    ROW_SIZES = (2, 8, 8, 18, 18, 32, 32)
+    ROW_SIZES = (2, 8, 8, 18, 18, 32, 32, 2)
 
     def __init__(self, element):
         """
@@ -110,7 +86,7 @@ class Element:
             Get element by given index.
             """
             if isinstance(Z, (int, np.integer)):
-                if Z < 0 or Z > 118:
+                if Z < 0 or Z > 120:
                     raise ValueError(f"Wrong atomic number: {Z}")
                 return _PERIODIC_TABLE[Z]
             else:
@@ -193,17 +169,8 @@ class Element:
         int
             The row of the element in the periodic table.
         """
-        z = self.Z
-        total = 0
-        if 57 <= z <= 71:
-            return 8
-        if 89 <= z <= 103:
-            return 9
-        for i, size in enumerate(Element.ROW_SIZES):
-            total += size
-            if total >= z:
-                return i + 1
-        return 8
+        noble = np.array([2, 10, 18, 36, 54, 86, 118, 120])
+        return noble.searchsorted(self.Z) + 1
 
     @property
     def group(self):
@@ -253,18 +220,6 @@ class Element:
             raise ValueError("You found a bug!")
 
     @property
-    def group_symbol(self):
-        """
-        Get the group symbol of the element.
-
-        Returns
-        -------
-        str
-            The group symbol of the element.
-        """
-        return f"group-{self.group}"
-
-    @property
     def Z(self):
         """
         Get the atomic number of the element.
@@ -287,31 +242,3 @@ class Element:
             The period of the element in the periodic table.
         """
         return self.row
-
-    def get_elec_config(self):
-        """
-        Get the electron configuration of the element.
-
-        Returns
-        -------
-        str
-            The electron configuration of the element.
-        """
-        n = self.Z
-        if n in _SPECIAL_ELEMENTS.keys():
-            return _SPECIAL_ELEMENTS[n]
-
-        rule = "1s 2s 2p 3s 3p 4s 3d 4p 5s 4d 5p 6s 4f 5d 6p 7s 5f 6d 7p"
-        nb_dict = {"s": 2, "p": 6, "d": 10, "f": 14}
-        orbitals = [(i, nb_dict[i[-1]]) for i in rule.split()]
-        output = []
-
-        for orbital, size in orbitals:
-            k = min(size, n)
-            output.append("%s^%d" % (orbital, k))
-            n -= k
-            if n <= 0:
-                break
-
-        orbital_info = " ".join(output)
-        return orbital_info
