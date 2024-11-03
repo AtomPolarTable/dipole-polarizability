@@ -21,7 +21,7 @@ For further information and inquiries please contact us at yxcheng2buaa@gmail.co
 Tables
 ======
 
-- The 2023 Table is available `here <https://github.com/AtomPolarTable/dipole-polarizability/tables/2023/main.pdf>`_.
+- The 2023 Table is available `here <https://github.com/AtomPolarTable/dipole-polarizability/blob/main/tables/2023/main.pdf>`_.
 
 
 Citations
