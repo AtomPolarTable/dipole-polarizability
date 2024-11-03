@@ -21,7 +21,7 @@ YingXing Cheng (3),
 - (3) Numerical Mathematics for High-Performance Computing (NMH), University of Stuttgart, Stuttgart, Germany.
 
 The `pydipole` source code is hosted on GitHub and is released under the GNU General Public License v3.0.
-Please report any issues you encounter while using the `pydipole` library on [GitHub Issues](https://github.com/AtomPolarTable/pydipole/issues/new).
+Please report any issues you encounter while using the `pydipole` library on [GitHub Issues](https://github.com/AtomPolarTable/dipole-polarizability/issues/new).
 For further information and inquiries, please contact us at yxcheng2buaa@gmail.com.
 
 ## Tables

@@ -15,7 +15,7 @@ YingXing Cheng (3),
 
 The ``pydipole`` source code is hosted on GitHub and is released under the GNU General Public License v3.0.
 Please report any issues you encounter while using ``pydipole`` library on
-`GitHub Issues <https://github.com/AtomPolarTable/pydipole/issues/new>`_.
+`GitHub Issues <https://github.com/AtomPolarTable/dipole-polarizability/issues/new>`_.
 For further information and inquiries please contact us at yxcheng2buaa@gmail.com.
 
 Tables
