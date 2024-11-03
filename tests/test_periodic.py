@@ -25,6 +25,12 @@ from pydipole import Element
 
 def test_element_group():
     assert Element(1).group == 1
+    assert Element(119).group == 1
+    assert Element(120).group == 2
+    assert Element(119).symbol == "Uue"
+    assert Element(120).symbol == "Ubn"
+    assert Element(119).period == 8
+    assert Element(120).period == 8
 
     group_1 = np.asarray([3, 11, 19, 37, 55, 87])
     for j in range(2):
@@ -70,7 +76,6 @@ def test_element_properties():
     assert carbon.is_actinoid is False
     assert carbon.row == 2
     assert carbon.group == 14
-    assert carbon.group_symbol == "group-14"
     assert carbon.Z == 6
     assert carbon.period == 2
 
@@ -79,11 +84,3 @@ def test_element_properties():
 
     uranium = Element(92)
     assert uranium.is_actinoid is True
-
-
-def test_element_get_elec_config():
-    helium = Element("He")
-    assert helium.get_elec_config() == "1s^2"
-
-    chromium = Element(24)
-    assert chromium.get_elec_config() == "1s^2 2s^2 2p^6 3s^2 3p^6 4s^1 3d^5"

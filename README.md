@@ -69,6 +69,22 @@ For developers, one could need all dependencies:
 pip install -e .[dev,tests]
 ```
 
+Here’s the refined version of your `readme.md` section:
+
+## Usage
+
+To create a table of atomic dipole polarizabilities using `pydipole`, simply run the `write-table` command after installing the package:
+
+```bash
+write-table TEX_FILENAME.tex [references.bib]
+```
+
+This command will generate a `.tex` file named `TEX_FILENAME.tex` and, optionally, a `.bib` file for references.
+If no `.bib` filename is provided, the default is `references.bib`.
+
+Then, compile the `.tex` file using `LaTeX`. An example is available in the [`tables/2023`](https://github.com/AtomPolarTable/dipole-polarizability/blob/main/tables/2023) directory.
+
+
 ## Citations
 
 Please use the following citations in any publication using `pydipole` library:
