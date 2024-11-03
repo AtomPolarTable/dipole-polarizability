@@ -13,7 +13,7 @@ keywords = ['dipole polarizability', 'periodic table']
 description = "Table of dipole polarizaility for atom with Z=1 to 120 "
 readme = "README.md"
 license = {file = "LICENSE"}
-requires-python = ">=3.10"
+requires-python = ">=3.8"
 classifiers = [
     "Development Status :: 3 - Alpha",
     "Environment :: Console",
@@ -31,6 +31,7 @@ classifiers = [
 dependencies = [
     "pandas",
     "importlib_resources",
+    "jinja2"
 ]
 dynamic = ['version']
 
