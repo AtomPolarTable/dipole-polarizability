@@ -1,0 +1,13 @@
+{
+  "alpha": "$49.2$",
+  "atom": "Tl",
+  "category": "theoretical",
+  "comments": "RCI + MBPT",
+  "refs": "[\\citenum{Mitroy2010a, Kozlov2001}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 976,
+  "state": "$^2P$",
+  "year": 2010,
+  "z": 81
+}

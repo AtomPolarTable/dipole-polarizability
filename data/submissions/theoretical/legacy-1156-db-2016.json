@@ -1,0 +1,13 @@
+{
+  "alpha": "$42 \\pm 4$",
+  "atom": "Db",
+  "category": "theoretical",
+  "comments": "R, RPA, PolPot (value recommended by authors)",
+  "refs": "[\\citenum{Dzuba2016b}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 1156,
+  "state": "$6d^3$",
+  "year": 2016,
+  "z": 105
+}

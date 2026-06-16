@@ -1,0 +1,13 @@
+{
+  "alpha": "$160$",
+  "atom": "Ca",
+  "category": "theoretical",
+  "comments": "R, CI+MBPT",
+  "refs": "[\\citenum{Porsev2002}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 240,
+  "state": "$^1S_0$",
+  "year": 2002,
+  "z": 20
+}

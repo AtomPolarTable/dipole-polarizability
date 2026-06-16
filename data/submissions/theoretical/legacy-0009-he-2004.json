@@ -1,0 +1,13 @@
+{
+  "alpha": "$1.38376079 \\pm 0.00000023$",
+  "atom": "He",
+  "category": "theoretical",
+  "comments": "\\makecell{R, Dirac, Breit-Pauli, QED, mass pol, \\\\exponentially correlated Slater functions ($^4$He)}",
+  "refs": "[\\citenum{Lach2004b}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 9,
+  "state": "$^1S_0$",
+  "year": 2004,
+  "z": 2
+}

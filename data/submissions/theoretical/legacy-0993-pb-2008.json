@@ -1,0 +1,13 @@
+{
+  "alpha": "$46.96$",
+  "atom": "Pb",
+  "category": "theoretical",
+  "comments": "R, Dirac, CCSD(T)",
+  "refs": "[\\citenum{Pershina2008b}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 993,
+  "state": "$^3P_0$",
+  "year": 2008,
+  "z": 82
+}

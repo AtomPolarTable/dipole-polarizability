@@ -1,0 +1,13 @@
+{
+  "alpha": "$76.3$",
+  "atom": "Mn",
+  "category": "theoretical",
+  "comments": "TD-DFT (PGG)",
+  "refs": "[\\citenum{Gould2016b}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 330,
+  "state": "$^6S,3d^5$",
+  "year": 2016,
+  "z": 25
+}

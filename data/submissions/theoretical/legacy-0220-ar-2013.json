@@ -1,0 +1,13 @@
+{
+  "alpha": "$11.089 \\pm 0.004$",
+  "atom": "Ar",
+  "category": "theoretical",
+  "comments": "R, CCSD(T)",
+  "refs": "[\\citenum{Singh2013}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 220,
+  "state": "$^1S$",
+  "year": 2013,
+  "z": 18
+}

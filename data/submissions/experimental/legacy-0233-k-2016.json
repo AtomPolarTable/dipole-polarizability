@@ -1,0 +1,13 @@
+{
+  "alpha": "$289.7 \\pm 0.3$",
+  "atom": "K",
+  "category": "experimental",
+  "comments": "exp.",
+  "refs": "[\\citenum{Gregoire2015, Gregoire2016}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 233,
+  "state": "$^2S_{1/2}$",
+  "year": 2016,
+  "z": 19
+}

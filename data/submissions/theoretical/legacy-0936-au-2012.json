@@ -1,0 +1,13 @@
+{
+  "alpha": "$27.9 \\pm 4.2$",
+  "atom": "Au",
+  "category": "theoretical",
+  "comments": "R, DK, CASPT2",
+  "refs": "[\\citenum{Hohm2012, Roos2005}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 936,
+  "state": "$^2S, 5d^{10}$",
+  "year": 2012,
+  "z": 79
+}

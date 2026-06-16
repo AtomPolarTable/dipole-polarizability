@@ -1,0 +1,13 @@
+{
+  "alpha": "$73.55$",
+  "atom": "Mn",
+  "category": "theoretical",
+  "comments": "R, CCSD(T)/ANO-RCC",
+  "refs": "[\\citenum{Szarek2019}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 333,
+  "state": "$^6S_{5/2},3d^5$",
+  "year": 2019,
+  "z": 25
+}

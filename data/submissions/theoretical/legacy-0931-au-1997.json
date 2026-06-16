@@ -1,0 +1,13 @@
+{
+  "alpha": "$30 \\pm 4$",
+  "atom": "Au",
+  "category": "theoretical",
+  "comments": "R, HFR, HS, CI, CACP",
+  "refs": "[\\citenum{Henderson1997}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 931,
+  "state": "$^2S_{1/2}, 5d^{10}$",
+  "year": 1997,
+  "z": 79
+}

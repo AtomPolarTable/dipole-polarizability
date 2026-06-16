@@ -1,0 +1,13 @@
+{
+  "alpha": "$225.2$",
+  "atom": "Lr",
+  "category": "theoretical",
+  "comments": "R, DK, DFT, CAM-B3LYP",
+  "refs": "[\\citenum{Srivastava2016}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 1150,
+  "state": "$7p^1$",
+  "year": 2016,
+  "z": 103
+}

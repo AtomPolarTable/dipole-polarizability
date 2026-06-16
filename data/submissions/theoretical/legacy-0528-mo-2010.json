@@ -1,0 +1,13 @@
+{
+  "alpha": "$79$",
+  "atom": "Mo",
+  "category": "theoretical",
+  "comments": "MRCI",
+  "refs": "[\\citenum{Buchachenko2010}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 528,
+  "state": "$^7S_3, 4d^5$",
+  "year": 2010,
+  "z": 42
+}

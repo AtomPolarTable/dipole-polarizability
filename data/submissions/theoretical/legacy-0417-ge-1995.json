@@ -1,0 +1,13 @@
+{
+  "alpha": "$41.0$",
+  "atom": "Ge",
+  "category": "theoretical",
+  "comments": "NR, PNO-CEPA, $M_L$ res.",
+  "refs": "[\\citenum{Stiehler1995}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 417,
+  "state": "$^3P$",
+  "year": 1995,
+  "z": 32
+}

@@ -1,0 +1,13 @@
+{
+  "alpha": "$112 \\pm 13$",
+  "atom": "Zr",
+  "category": "experimental",
+  "comments": "exp.",
+  "refs": "[\\citenum{Ma2015}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 511,
+  "state": "$^3F_2, 4d^2$",
+  "year": 2015,
+  "z": 40
+}

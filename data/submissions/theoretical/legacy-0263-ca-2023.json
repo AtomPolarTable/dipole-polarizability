@@ -1,0 +1,13 @@
+{
+  "alpha": "$159.43 \\pm 0.97$",
+  "atom": "Ca",
+  "category": "theoretical",
+  "comments": "R, CI+MBPT",
+  "refs": "[\\citenum{Zhang2023}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 263,
+  "state": "$^1S_0$",
+  "year": 2023,
+  "z": 20
+}

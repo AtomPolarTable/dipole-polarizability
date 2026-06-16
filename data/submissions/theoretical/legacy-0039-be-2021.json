@@ -1,0 +1,13 @@
+{
+  "alpha": "$37.7$",
+  "atom": "Be",
+  "category": "theoretical",
+  "comments": "NR, CCSD(T)",
+  "refs": "[\\citenum{Smialkowski2021}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 39,
+  "state": "$^1S_0$",
+  "year": 2021,
+  "z": 4
+}

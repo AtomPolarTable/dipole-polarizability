@@ -1,0 +1,13 @@
+{
+  "alpha": "$65.4$",
+  "atom": "Mn",
+  "category": "theoretical",
+  "comments": "NR, small CI, VPA",
+  "refs": "[\\citenum{Chandler1987}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 323,
+  "state": "$^6S,3d^5$",
+  "year": 1987,
+  "z": 25
+}

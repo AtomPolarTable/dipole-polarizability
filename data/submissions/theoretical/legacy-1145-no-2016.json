@@ -1,0 +1,13 @@
+{
+  "alpha": "$107.77$",
+  "atom": "No",
+  "category": "theoretical",
+  "comments": "R, DFT, CAM-B3LYP, 2c-NESC",
+  "refs": "[\\citenum{Yoshizawa2016}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 1145,
+  "state": "$^1S_0, 5f^{14}$",
+  "year": 2016,
+  "z": 102
+}

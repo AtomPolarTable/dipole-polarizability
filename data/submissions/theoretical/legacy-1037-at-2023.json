@@ -1,0 +1,13 @@
+{
+  "alpha": "$41.1$",
+  "atom": "At",
+  "category": "theoretical",
+  "comments": "R (ATZP-ZORA), DFT (B3LYP)",
+  "refs": "[\\citenum{Neto2023}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 1037,
+  "state": "$^2P_{3/2}$",
+  "year": 2023,
+  "z": 85
+}

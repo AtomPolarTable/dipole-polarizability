@@ -19,20 +19,6 @@ repos:
   rev: 'v0.0.265'
   hooks:
     - id: ruff
-- repo: https://github.com/nbQA-dev/nbQA
-  rev: "1.7.0"
-  hooks:
-    - id: nbqa-black
-      args: [--nbqa-skip-celltags=before-import]
-    - id: nbqa-pyupgrade
-      args: [--py39-plus]
-    - id: nbqa-isort
-      args: [--nbqa-skip-celltags=before-import, --profile=black]
-    - id: nbqa-check-ast
-- repo: https://github.com/kynan/nbstripout.git
-  rev: "0.6.1"
-  hooks:
-    - id: nbstripout
 - repo: https://github.com/psf/black
   rev: "23.9.1"
   hooks:
@@ -54,7 +40,3 @@ repos:
   hooks:
     - id: python-no-eval
     - id: python-use-type-annotations
-- repo: https://github.com/srstevenson/nb-clean
-  rev: "3.0.1"
-  hooks:
-    - id: nb-clean

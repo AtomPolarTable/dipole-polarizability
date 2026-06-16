@@ -1,0 +1,13 @@
+{
+  "alpha": "$160.77$",
+  "atom": "Ca",
+  "category": "theoretical",
+  "comments": "\\makecell{R, Dirac + Breit, perturbed relativistic \\\\coupled-cluster theory (PRCC)}",
+  "refs": "[\\citenum{Chattopadhyay2014}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 256,
+  "state": "$^1S_0$",
+  "year": 2014,
+  "z": 20
+}

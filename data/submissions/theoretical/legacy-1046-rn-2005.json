@@ -1,0 +1,13 @@
+{
+  "alpha": "$35.47$",
+  "atom": "Rn",
+  "category": "theoretical",
+  "comments": "CCSD, ECP",
+  "refs": "[\\citenum{Labello2005}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 1046,
+  "state": "$^1S_0$",
+  "year": 2005,
+  "z": 86
+}

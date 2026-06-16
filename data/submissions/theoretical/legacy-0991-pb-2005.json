@@ -1,0 +1,13 @@
+{
+  "alpha": "$51.0$",
+  "atom": "Pb",
+  "category": "theoretical",
+  "comments": "R, SOPP, CCSD(T)",
+  "refs": "[\\citenum{Nash2005}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 991,
+  "state": "$^3P_0$",
+  "year": 2005,
+  "z": 82
+}

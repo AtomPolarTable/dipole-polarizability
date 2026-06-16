@@ -1,0 +1,13 @@
+{
+  "alpha": "$2.666$",
+  "atom": "Ne",
+  "category": "theoretical",
+  "comments": "R, CC3 + FCI + DK3 correction",
+  "refs": "[\\citenum{Hald2003, Larsen1999, Nakajima2001}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 99,
+  "state": "$^1S$",
+  "year": 2003,
+  "z": 10
+}

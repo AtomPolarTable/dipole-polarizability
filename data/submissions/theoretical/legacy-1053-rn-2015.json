@@ -1,0 +1,13 @@
+{
+  "alpha": "$35.0$",
+  "atom": "Rn",
+  "category": "theoretical",
+  "comments": "R, Dirac, CCSD(T)",
+  "refs": "[\\citenum{Borschevsky2015}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 1053,
+  "state": "$^1S_0$",
+  "year": 2015,
+  "z": 86
+}

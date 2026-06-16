@@ -1,0 +1,13 @@
+{
+  "alpha": "$38.666 \\pm 0.096$",
+  "atom": "Zn",
+  "category": "theoretical",
+  "comments": "R, Dirac, CCSDT",
+  "refs": "[\\citenum{Singh2014}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 397,
+  "state": "$^1S_0,3d^{{10}}$",
+  "year": 2014,
+  "z": 30
+}

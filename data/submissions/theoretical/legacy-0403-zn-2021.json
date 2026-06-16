@@ -1,0 +1,13 @@
+{
+  "alpha": "$37.7$",
+  "atom": "Zn",
+  "category": "theoretical",
+  "comments": "ECP, CCSD(T)",
+  "refs": "[\\citenum{Zaremba-Kopczyk2021}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 403,
+  "state": "$^1S,3d^{{10}}$",
+  "year": 2021,
+  "z": 30
+}

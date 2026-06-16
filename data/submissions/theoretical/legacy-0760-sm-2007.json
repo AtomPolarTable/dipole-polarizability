@@ -1,0 +1,13 @@
+{
+  "alpha": "$200 \\pm 40$",
+  "atom": "Sm",
+  "category": "theoretical",
+  "comments": "TD-DFT",
+  "refs": "[\\citenum{Chu2007}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 760,
+  "state": "$4f^6$",
+  "year": 2007,
+  "z": 62
+}

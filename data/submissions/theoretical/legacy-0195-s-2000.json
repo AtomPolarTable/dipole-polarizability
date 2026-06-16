@@ -1,0 +1,13 @@
+{
+  "alpha": "$19.6$",
+  "atom": "S",
+  "category": "theoretical",
+  "comments": "NR, CASPT2, $M_L$ res.",
+  "refs": "[\\citenum{MEDVE\u010e2000a}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 195,
+  "state": "$^3P$",
+  "year": 2000,
+  "z": 16
+}

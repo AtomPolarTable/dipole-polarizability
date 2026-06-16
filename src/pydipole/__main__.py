@@ -22,16 +22,15 @@ import logging
 import shutil
 import sys
 
-from pydipole import FNAME_BIB, load_db
+from pydipole import get_data_paths, load_db
 
 __all__ = ["main"]
 
 logger = logging.getLogger(__name__)
 
 
-def to_tex(df, fn_out, **kwargs):
+def to_tex(df, fn_out, label="tab:table_2023", **kwargs):
     df.rename(columns={"Alpha": r"$\alpha$", "Refs": "Refs."}, inplace=True)
-    label = "tab:table_2023"
     latex_code = df.to_latex(
         longtable=True, escape=False, na_rep="$--$", index=False, label=label, **kwargs
     )
@@ -70,13 +69,27 @@ def main(args=None) -> int:
         default="references.bib",
         help="The filename for bibtex.",
     )
+    release_group = parser.add_mutually_exclusive_group()
+    release_group.add_argument(
+        "--release",
+        type=str,
+        help="Use data/releases/YEAR instead of the packaged database.",
+    )
+    release_group.add_argument(
+        "--latest",
+        action="store_true",
+        help="Use the newest numeric directory in data/releases.",
+    )
     parsed_args = parser.parse_args(args)
 
-    df = load_db()
+    release = "latest" if parsed_args.latest else parsed_args.release
+    df = load_db(release=release)
     df["Atom"] = df["Atom"].mask(df["Atom"].duplicated(), "")
     df["Z"] = df["Z"].mask(df["Z"].duplicated(), "")
     to_tex(df, parsed_args.filename)
-    shutil.copy(FNAME_BIB, parsed_args.bib)
+    _, references = get_data_paths(release=release)
+    with references.open("rb") as src, open(parsed_args.bib, "wb") as dst:
+        shutil.copyfileobj(src, dst)
     return 0
 
 

@@ -1,0 +1,13 @@
+{
+  "alpha": "$11.081 \\pm 0.005$",
+  "atom": "Ar",
+  "category": "experimental",
+  "comments": "exp.",
+  "refs": "[\\citenum{Orcutt1967}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 210,
+  "state": "$^1S_0$",
+  "year": 1967,
+  "z": 18
+}

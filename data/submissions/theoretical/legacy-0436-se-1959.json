@@ -1,0 +1,13 @@
+{
+  "alpha": "$26.24 \\pm 0.52$",
+  "atom": "Se",
+  "category": "theoretical",
+  "comments": "R, MVD, CASPT2, $M_L$ res.",
+  "refs": "[\\citenum{Alpher1959}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 436,
+  "state": "$^3P$",
+  "year": 1959,
+  "z": 34
+}

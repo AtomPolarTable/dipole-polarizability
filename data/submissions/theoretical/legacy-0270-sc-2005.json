@@ -1,0 +1,13 @@
+{
+  "alpha": "$105.88$",
+  "atom": "Sc",
+  "category": "theoretical",
+  "comments": "TD-DFT",
+  "refs": "[\\citenum{Chu2005}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 270,
+  "state": "$^2D^{,3d1}$",
+  "year": 2005,
+  "z": 21
+}

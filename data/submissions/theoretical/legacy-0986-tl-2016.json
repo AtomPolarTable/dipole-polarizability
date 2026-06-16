@@ -1,0 +1,13 @@
+{
+  "alpha": "$69.92$",
+  "atom": "Tl",
+  "category": "theoretical",
+  "comments": "LR-CCSD",
+  "refs": "[\\citenum{gobre2016efficient}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 986,
+  "state": "$^2P$",
+  "year": 2016,
+  "z": 81
+}

@@ -1,0 +1,13 @@
+{
+  "alpha": "$24.6 \\pm 0.2$",
+  "atom": "P",
+  "category": "theoretical",
+  "comments": "NR, CASPT2",
+  "refs": "[\\citenum{Andersson1992}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 181,
+  "state": "$^4S$",
+  "year": 1992,
+  "z": 15
+}

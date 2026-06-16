@@ -1,0 +1,13 @@
+{
+  "alpha": "$320 \\pm 20$",
+  "atom": "Lr",
+  "category": "theoretical",
+  "comments": "recommended",
+  "refs": "[\\citenum{Schwerdtfeger2019}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 1151,
+  "state": "$--$",
+  "year": 2019,
+  "z": 103
+}

@@ -1,0 +1,13 @@
+{
+  "alpha": "$115.64$",
+  "atom": "No",
+  "category": "theoretical",
+  "comments": "R, DK, CCSD(T)",
+  "refs": "[\\citenum{Thierfelder2009}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 1140,
+  "state": "$^1S_0, 5f^{14}$",
+  "year": 2009,
+  "z": 102
+}

@@ -1,0 +1,13 @@
+{
+  "alpha": "$45.3 \\pm 1.4$",
+  "atom": "Cd",
+  "category": "experimental",
+  "comments": "exp.",
+  "refs": "[\\citenum{Bromley2002a, Goebel1995a}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 598,
+  "state": "$^1S_0, 4d^{10}$",
+  "year": 2002,
+  "z": 48
+}

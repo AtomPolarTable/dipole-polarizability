@@ -1,0 +1,13 @@
+{
+  "alpha": "$2.68$",
+  "atom": "Ne",
+  "category": "theoretical",
+  "comments": "NR, CCSD(T)",
+  "refs": "[\\citenum{Rice1992}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 95,
+  "state": "$^1S$",
+  "year": 1992,
+  "z": 10
+}

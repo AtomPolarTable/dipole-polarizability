@@ -1,0 +1,13 @@
+{
+  "alpha": "$1.383759 \\pm 0.000013$",
+  "atom": "He",
+  "category": "experimental",
+  "comments": "exp.",
+  "refs": "[\\citenum{Schmidt2007}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 10,
+  "state": "$^1S_0$",
+  "year": 2007,
+  "z": 2
+}

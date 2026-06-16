@@ -1,0 +1,13 @@
+{
+  "alpha": "$115 \\pm 20$",
+  "atom": "Ta",
+  "category": "experimental",
+  "comments": "exp.",
+  "refs": "[\\citenum{Liepack1956}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 875,
+  "state": "$^4F_{3/2}, 5d^3$",
+  "year": 1956,
+  "z": 73
+}

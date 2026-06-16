@@ -1,0 +1,13 @@
+{
+  "alpha": "$136.0$",
+  "atom": "Yb",
+  "category": "theoretical",
+  "comments": "SR, ECP, CCSD(T)",
+  "refs": "[\\citenum{Tomza2021}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 857,
+  "state": "$^1S_0, 4f^{14}$",
+  "year": 2021,
+  "z": 70
+}

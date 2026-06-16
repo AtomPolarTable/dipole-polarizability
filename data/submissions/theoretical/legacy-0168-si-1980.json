@@ -1,0 +1,13 @@
+{
+  "alpha": "$36.95$",
+  "atom": "Si",
+  "category": "theoretical",
+  "comments": "NR, MRCI",
+  "refs": "[\\citenum{Hibbert1980}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 168,
+  "state": "$^3P$",
+  "year": 1980,
+  "z": 14
+}

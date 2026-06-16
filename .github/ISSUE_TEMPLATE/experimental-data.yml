@@ -1,0 +1,68 @@
+name: Experimental polarizability data
+description: Submit an experimental atomic dipole polarizability value for maintainer review.
+title: "[Experimental data]: "
+labels: ["data-submission", "experimental"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form for measured values. Maintainers will review accepted submissions and convert approved records into curated JSON files.
+  - type: input
+    id: element
+    attributes:
+      label: Element symbol
+      description: Chemical symbol, for example Ar.
+      placeholder: Ar
+    validations:
+      required: true
+  - type: input
+    id: atomic-number
+    attributes:
+      label: Atomic number
+      placeholder: "18"
+    validations:
+      required: true
+  - type: input
+    id: state
+    attributes:
+      label: Atomic state or sample description
+      placeholder: "$^1S_0$"
+    validations:
+      required: true
+  - type: input
+    id: alpha
+    attributes:
+      label: Dipole polarizability
+      description: Prefer atomic units. If converted from another measured quantity, explain below.
+      placeholder: "11.083 a.u."
+    validations:
+      required: true
+  - type: textarea
+    id: conditions
+    attributes:
+      label: Experimental conditions and uncertainty
+      description: Include isotope, temperature, field/frequency conditions, uncertainty, and conversion details.
+      placeholder: "Static value converted to a.u.; uncertainty +/- 0.002 a.u."
+    validations:
+      required: true
+  - type: input
+    id: year
+    attributes:
+      label: Publication year
+      placeholder: "2026"
+    validations:
+      required: true
+  - type: textarea
+    id: reference
+    attributes:
+      label: Reference
+      description: Provide DOI, arXiv, URL, or BibTeX.
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional notes
+      description: Add duplicate checks or table comments.
+    validations:
+      required: false

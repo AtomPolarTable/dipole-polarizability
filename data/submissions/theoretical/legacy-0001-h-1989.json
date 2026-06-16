@@ -1,0 +1,13 @@
+{
+  "alpha": "$4.5$",
+  "atom": "H",
+  "category": "theoretical",
+  "comments": "NR, exact",
+  "refs": "[\\citenum{Goldman1989}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 1,
+  "state": "$^2S$",
+  "year": 1989,
+  "z": 1
+}

@@ -1,0 +1,13 @@
+{
+  "alpha": "$37 \\pm 4$",
+  "atom": "Te",
+  "category": "theoretical",
+  "comments": "R, LDA",
+  "refs": "[\\citenum{Lide2004, Doolen1987}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 654,
+  "state": "$^3P$",
+  "year": 2004,
+  "z": 52
+}

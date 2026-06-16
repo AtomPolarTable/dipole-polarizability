@@ -1,0 +1,13 @@
+{
+  "alpha": "$25.5$",
+  "atom": "P",
+  "category": "theoretical",
+  "comments": "NR, numerical MCSCF, $M_L$ res.",
+  "refs": "[\\citenum{Stiehler1995}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 182,
+  "state": "$^4S$",
+  "year": 1995,
+  "z": 15
+}

@@ -1,0 +1,13 @@
+{
+  "alpha": "$11.67 \\pm 0.07$",
+  "atom": "C",
+  "category": "theoretical",
+  "comments": "NR, CCSD(T), $M_L$ res.",
+  "refs": "[\\citenum{Das1998}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 52,
+  "state": "$^3P$",
+  "year": 1998,
+  "z": 6
+}

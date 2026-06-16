@@ -1,0 +1,13 @@
+{
+  "alpha": "$2.66110 \\pm 0.00003$",
+  "atom": "Ne",
+  "category": "experimental",
+  "comments": "exp.",
+  "refs": "[\\citenum{Gaiser2010}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 101,
+  "state": "$^1S_0$",
+  "year": 2010,
+  "z": 10
+}

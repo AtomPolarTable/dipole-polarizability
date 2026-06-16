@@ -1,0 +1,13 @@
+{
+  "alpha": "$56.56$",
+  "atom": "Os",
+  "category": "theoretical",
+  "comments": "ECP, CCSD",
+  "refs": "[\\citenum{A.Manz2019}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 908,
+  "state": "$^5D_4, 5d^6$",
+  "year": 2019,
+  "z": 76
+}

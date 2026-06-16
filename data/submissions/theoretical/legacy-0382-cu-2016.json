@@ -1,0 +1,13 @@
+{
+  "alpha": "$51.8$",
+  "atom": "Cu",
+  "category": "theoretical",
+  "comments": "semi-empirical",
+  "refs": "[\\citenum{Dyugaev2016}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 382,
+  "state": "$^2S,3d^{{10}}$",
+  "year": 2016,
+  "z": 29
+}

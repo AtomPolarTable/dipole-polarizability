@@ -1,0 +1,13 @@
+{
+  "alpha": "$37.86 \\pm 0.17$",
+  "atom": "Be",
+  "category": "theoretical",
+  "comments": "R, Dirac, MBPT, CCSD",
+  "refs": "[\\citenum{Singh2013}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 34,
+  "state": "$^1S_0$",
+  "year": 2013,
+  "z": 4
+}

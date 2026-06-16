@@ -1,0 +1,13 @@
+{
+  "alpha": "$38.1 \\pm 3.8$",
+  "atom": "Te",
+  "category": "theoretical",
+  "comments": "QR, MVD-HF, GTO basis set",
+  "refs": "[\\citenum{Maroulis2006, Sadlej1992}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 656,
+  "state": "$^3P$",
+  "year": 2006,
+  "z": 52
+}

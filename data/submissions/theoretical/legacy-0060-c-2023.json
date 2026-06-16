@@ -1,0 +1,13 @@
+{
+  "alpha": "$11.61$",
+  "atom": "C",
+  "category": "theoretical",
+  "comments": "R, CCC (convergent close-coupling method)",
+  "refs": "[\\citenum{Mori2023}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 60,
+  "state": "$^3P$",
+  "year": 2023,
+  "z": 6
+}

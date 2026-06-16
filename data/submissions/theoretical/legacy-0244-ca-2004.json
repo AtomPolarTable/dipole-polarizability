@@ -1,0 +1,13 @@
+{
+  "alpha": "$163$",
+  "atom": "Ca",
+  "category": "theoretical",
+  "comments": "R, DK, CASPT2",
+  "refs": "[\\citenum{Roos2004a}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 244,
+  "state": "$^1S$",
+  "year": 2004,
+  "z": 20
+}

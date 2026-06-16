@@ -1,0 +1,13 @@
+{
+  "alpha": "$41.6$",
+  "atom": "Ge",
+  "category": "theoretical",
+  "comments": "SIC-DFT",
+  "refs": "[\\citenum{Chu2004}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 418,
+  "state": "$^3P$",
+  "year": 2004,
+  "z": 32
+}

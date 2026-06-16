@@ -1,0 +1,13 @@
+{
+  "alpha": "$35.77$",
+  "atom": "Rn",
+  "category": "theoretical",
+  "comments": "R, DK, CCSD(T)",
+  "refs": "[\\citenum{Wesendrup2000, Labello2005}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 1045,
+  "state": "$^1S_0$",
+  "year": 2005,
+  "z": 86
+}

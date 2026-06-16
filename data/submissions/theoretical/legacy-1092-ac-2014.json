@@ -1,0 +1,13 @@
+{
+  "alpha": "$203.3$",
+  "atom": "Ac",
+  "category": "theoretical",
+  "comments": "\\makecell{R, Dirac, CI + MBPT + CP(RPA); ($\\alpha_D$ = 141.9 for the $7s^2 7p^1$ configuration)}",
+  "refs": "[\\citenum{Dzuba2014}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 1092,
+  "state": "$^2D_{3/2}, 6d^1$",
+  "year": 2014,
+  "z": 89
+}

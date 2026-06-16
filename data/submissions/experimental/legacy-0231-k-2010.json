@@ -1,0 +1,13 @@
+{
+  "alpha": "$290.6 \\pm 1.4$",
+  "atom": "K",
+  "category": "experimental",
+  "comments": "exp. (for hyperfine effects see ref [\\citenum{{Jiang2013}}])",
+  "refs": "[\\citenum{Holmgren2010}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 231,
+  "state": "$^2S_{1/2}$",
+  "year": 2010,
+  "z": 19
+}

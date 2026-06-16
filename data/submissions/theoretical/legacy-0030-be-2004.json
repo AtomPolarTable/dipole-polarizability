@@ -1,0 +1,13 @@
+{
+  "alpha": "$37.807$",
+  "atom": "Be",
+  "category": "theoretical",
+  "comments": "CI, expanded London formula",
+  "refs": "[\\citenum{Bendazzoli2004}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 30,
+  "state": "$^1S_0$",
+  "year": 2004,
+  "z": 4
+}

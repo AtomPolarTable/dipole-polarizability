@@ -1,0 +1,13 @@
+{
+  "alpha": "$48.9$",
+  "atom": "Co",
+  "category": "theoretical",
+  "comments": "SIC-DFT",
+  "refs": "[\\citenum{Chu2004}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 351,
+  "state": "$^4F_{9/2},3d^7$",
+  "year": 2004,
+  "z": 27
+}

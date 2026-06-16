@@ -1,0 +1,13 @@
+{
+  "alpha": "$163.7$",
+  "atom": "Uue",
+  "category": "theoretical",
+  "comments": "R, DK, CCSD(T), ARPP",
+  "refs": "[\\citenum{Lim2005}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 1211,
+  "state": "$^2S$",
+  "year": 2005,
+  "z": 119
+}

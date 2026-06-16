@@ -1,0 +1,13 @@
+{
+  "alpha": "$161 \\pm 7.5$",
+  "atom": "Na",
+  "category": "experimental",
+  "comments": "exp.",
+  "refs": "[\\citenum{Ma2015}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 113,
+  "state": "$^2S_{1/2}$",
+  "year": 2015,
+  "z": 11
+}

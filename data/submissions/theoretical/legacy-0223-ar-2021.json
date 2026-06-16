@@ -1,0 +1,13 @@
+{
+  "alpha": "$11.08 \\pm 0.19$",
+  "atom": "Ar",
+  "category": "theoretical",
+  "comments": "NR, CCSD(T)",
+  "refs": "[\\citenum{Wang2021}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 223,
+  "state": "$^1S$",
+  "year": 2021,
+  "z": 18
+}

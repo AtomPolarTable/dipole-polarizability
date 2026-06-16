@@ -1,0 +1,13 @@
+{
+  "alpha": "$62.4$",
+  "atom": "In",
+  "category": "theoretical",
+  "comments": "R, Dirac + Breit, CI + all-order",
+  "refs": "[\\citenum{Safronova2013}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 621,
+  "state": "$^2P_{1/2}$",
+  "year": 2013,
+  "z": 49
+}

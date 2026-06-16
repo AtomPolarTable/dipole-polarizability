@@ -1,0 +1,13 @@
+{
+  "alpha": "$38.67 \\pm 0.30$",
+  "atom": "Zn",
+  "category": "theoretical",
+  "comments": "recommended",
+  "refs": "[\\citenum{Schwerdtfeger2019}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 402,
+  "state": "$--$",
+  "year": 2019,
+  "z": 30
+}

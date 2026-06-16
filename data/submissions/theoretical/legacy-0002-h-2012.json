@@ -1,0 +1,13 @@
+{
+  "alpha": "$4.49975145989$",
+  "atom": "H",
+  "category": "theoretical",
+  "comments": "\\makecell{R, Dirac, variational, Slater/B-splines \\\\(more digits are given in Ref.~\\citenum{Tang2012})}",
+  "refs": "[\\citenum{Goldman1989, Tang2012}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 2,
+  "state": "$^2S_{1/2}$",
+  "year": 2012,
+  "z": 1
+}

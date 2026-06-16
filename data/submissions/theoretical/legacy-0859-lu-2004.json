@@ -1,0 +1,13 @@
+{
+  "alpha": "$148 \\pm 17$",
+  "atom": "Lu",
+  "category": "theoretical",
+  "comments": "R, Dirac, LDA",
+  "refs": "[\\citenum{Lide2004, Doolen1987}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 859,
+  "state": "$^2D_{3/2}, 5d^1$",
+  "year": 2004,
+  "z": 71
+}

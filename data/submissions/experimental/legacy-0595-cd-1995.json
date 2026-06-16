@@ -1,0 +1,13 @@
+{
+  "alpha": "$49.7 \\pm 1.6$",
+  "atom": "Cd",
+  "category": "experimental",
+  "comments": "exp.",
+  "refs": "[\\citenum{Goebel1995}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 595,
+  "state": "$^1S_0, 4d^{10}$",
+  "year": 1995,
+  "z": 48
+}

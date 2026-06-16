@@ -1,0 +1,13 @@
+{
+  "alpha": "$38.99 \\pm 0.31$",
+  "atom": "Zn",
+  "category": "theoretical",
+  "comments": "R, NCCSD",
+  "refs": "[\\citenum{Chakraborty2022}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 404,
+  "state": "$^1S_0,3d^{{10}}$",
+  "year": 2022,
+  "z": 30
+}

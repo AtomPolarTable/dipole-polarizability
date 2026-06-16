@@ -1,0 +1,13 @@
+{
+  "alpha": "$141 \\pm 2$",
+  "atom": "Yb",
+  "category": "theoretical",
+  "comments": "R, Dirac, CI + MBPT + RPA",
+  "refs": "[\\citenum{Safronova2012}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 839,
+  "state": "$^1S_0, 4f^{14}$",
+  "year": 2012,
+  "z": 70
+}

@@ -1,0 +1,13 @@
+{
+  "alpha": "$39.2 \\pm 0.8$",
+  "atom": "Zn",
+  "category": "theoretical",
+  "comments": "NR, CCSD(T), MP2 basis correction",
+  "refs": "[\\citenum{Goebel1996}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 389,
+  "state": "$^1S,3d^{{10}}$",
+  "year": 1996,
+  "z": 30
+}

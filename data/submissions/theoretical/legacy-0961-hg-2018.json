@@ -1,0 +1,13 @@
+{
+  "alpha": "$34.2 \\pm 0.5$",
+  "atom": "Hg",
+  "category": "theoretical",
+  "comments": "R, CCSD(T) + Breit",
+  "refs": "[\\citenum{Sahoo2018d}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 961,
+  "state": "$^1S_0, 5d^{10}$",
+  "year": 2018,
+  "z": 80
+}

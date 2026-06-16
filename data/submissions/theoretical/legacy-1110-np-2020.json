@@ -1,0 +1,13 @@
+{
+  "alpha": "$160$",
+  "atom": "Np",
+  "category": "theoretical",
+  "comments": "R, CI+MBPT",
+  "refs": "[\\citenum{Flambaum2020}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 1110,
+  "state": "$5f^4 6d^1$",
+  "year": 2020,
+  "z": 93
+}

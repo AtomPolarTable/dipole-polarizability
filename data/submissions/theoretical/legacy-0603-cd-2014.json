@@ -1,0 +1,13 @@
+{
+  "alpha": "$45.86 \\pm 0.15$",
+  "atom": "Cd",
+  "category": "theoretical",
+  "comments": "R, DF, CCSD(T), MBPT3",
+  "refs": "[\\citenum{Singh2014}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 603,
+  "state": "$^1S_0, 4d^{10}$",
+  "year": 2014,
+  "z": 48
+}

@@ -1,0 +1,13 @@
+{
+  "alpha": "$274.92 \\pm 0.01$",
+  "atom": "Ba",
+  "category": "theoretical",
+  "comments": "CCSD(T), R DKH ECP/CBS",
+  "refs": "[\\citenum{Buchachenko2018}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 722,
+  "state": "$^1S_0$",
+  "year": 2018,
+  "z": 56
+}

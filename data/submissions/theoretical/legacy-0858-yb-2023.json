@@ -1,0 +1,13 @@
+{
+  "alpha": "$139 \\pm 3$",
+  "atom": "Yb",
+  "category": "theoretical",
+  "comments": "MCDHF+Breit+QED",
+  "refs": "[\\citenum{Tang2023}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 858,
+  "state": "$^1S_0, 4f^{14}$",
+  "year": 2023,
+  "z": 70
+}

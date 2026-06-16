@@ -1,0 +1,13 @@
+{
+  "alpha": "$278.1 \\pm 5.6$",
+  "atom": "Ba",
+  "category": "experimental",
+  "comments": "Combination of theoretical and experimental data",
+  "refs": "[\\citenum{Jiang2015a}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 719,
+  "state": "$^1S_0$",
+  "year": 2015,
+  "z": 56
+}

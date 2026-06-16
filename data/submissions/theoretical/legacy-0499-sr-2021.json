@@ -1,0 +1,13 @@
+{
+  "alpha": "$203.16$",
+  "atom": "Sr",
+  "category": "theoretical",
+  "comments": "R, CCSD(T)",
+  "refs": "[\\citenum{CanalNeto2021}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 499,
+  "state": "$^1S_0$",
+  "year": 2021,
+  "z": 38
+}

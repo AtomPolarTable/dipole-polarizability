@@ -1,0 +1,13 @@
+{
+  "alpha": "$40.80 \\pm 0.82$",
+  "atom": "Ge",
+  "category": "theoretical",
+  "comments": "R, PNO-CEPA",
+  "refs": "[\\citenum{Maroulis2006}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 419,
+  "state": "$^3P_0$",
+  "year": 2006,
+  "z": 32
+}

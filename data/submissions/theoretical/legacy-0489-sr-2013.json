@@ -1,0 +1,13 @@
+{
+  "alpha": "$186.98 \\pm 0.85$",
+  "atom": "Sr",
+  "category": "theoretical",
+  "comments": "R, Dirac, MBPT, CCSD",
+  "refs": "[\\citenum{Singh2013}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 489,
+  "state": "$^1S_0$",
+  "year": 2013,
+  "z": 38
+}

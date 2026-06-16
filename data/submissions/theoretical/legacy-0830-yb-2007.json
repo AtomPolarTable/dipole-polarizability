@@ -1,0 +1,13 @@
+{
+  "alpha": "$143$",
+  "atom": "Yb",
+  "category": "theoretical",
+  "comments": "R, DCHF, CCSD(T), ECP",
+  "refs": "[\\citenum{Zhang2007b}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 830,
+  "state": "$^1S_0, 4f^{14}$",
+  "year": 2007,
+  "z": 70
+}

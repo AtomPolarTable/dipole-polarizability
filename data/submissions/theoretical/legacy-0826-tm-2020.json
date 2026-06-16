@@ -1,0 +1,13 @@
+{
+  "alpha": "$153.02$",
+  "atom": "Tm",
+  "category": "theoretical",
+  "comments": "R, Dirac, CIPT+HF+RPA",
+  "refs": "[\\citenum{Dzuba2020}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 826,
+  "state": "$^2F^0_{7/2}, 4f^{13}$",
+  "year": 2020,
+  "z": 69
+}

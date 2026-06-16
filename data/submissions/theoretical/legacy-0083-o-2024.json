@@ -1,0 +1,13 @@
+{
+  "alpha": "$5.236 \\pm 0.008$",
+  "atom": "O",
+  "category": "theoretical",
+  "comments": "NR, neural network QMC, DS (DeepSolid) method",
+  "refs": "[\\citenum{Li2024}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 83,
+  "state": "$^3P$",
+  "year": 2024,
+  "z": 8
+}

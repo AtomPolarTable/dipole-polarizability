@@ -1,0 +1,13 @@
+{
+  "alpha": "$106.0$",
+  "atom": "Sc",
+  "category": "theoretical",
+  "comments": "SIC-DFT (RXH)",
+  "refs": "[\\citenum{Chu2004, Gould2016b}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 274,
+  "state": "$^2D_{3/2}^{,3d1}$",
+  "year": 2016,
+  "z": 21
+}

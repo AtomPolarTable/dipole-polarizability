@@ -1,0 +1,13 @@
+{
+  "alpha": "$176 \\pm 26$",
+  "atom": "Gd",
+  "category": "experimental",
+  "comments": "exp.",
+  "refs": "[\\citenum{Ma2015}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 777,
+  "state": "$^9D_2, 4f^7 5d^1$",
+  "year": 2015,
+  "z": 64
+}

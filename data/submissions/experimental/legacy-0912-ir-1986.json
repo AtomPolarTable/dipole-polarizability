@@ -1,0 +1,13 @@
+{
+  "alpha": "$54.0 \\pm 6.7$",
+  "atom": "Ir",
+  "category": "experimental",
+  "comments": "exp.",
+  "refs": "[\\citenum{Cole1986, Bardon1984}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 912,
+  "state": "$^4F_{9/2}, 5d^7$",
+  "year": 1986,
+  "z": 77
+}

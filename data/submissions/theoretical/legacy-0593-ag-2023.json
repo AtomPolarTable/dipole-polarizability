@@ -1,0 +1,13 @@
+{
+  "alpha": "$48.4$",
+  "atom": "Ag",
+  "category": "theoretical",
+  "comments": "R, Dirac, LDA",
+  "refs": "[\\citenum{Lide2004, Bromley2002b}][2023114]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 593,
+  "state": "$^2S_{1/2}, 4d^{10}$",
+  "year": 2023,
+  "z": 47
+}

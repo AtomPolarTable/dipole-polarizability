@@ -1,0 +1,13 @@
+{
+  "alpha": "$47.4 \\pm 4.7$",
+  "atom": "Ni",
+  "category": "theoretical",
+  "comments": "R, DK, MRCI",
+  "refs": "[\\citenum{K\u0142os2005a}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 362,
+  "state": "$^3F_4,3d^8$",
+  "year": 2005,
+  "z": 28
+}

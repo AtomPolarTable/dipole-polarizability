@@ -1,0 +1,13 @@
+{
+  "alpha": "$19.22$",
+  "atom": "S",
+  "category": "theoretical",
+  "comments": "NR, CCSD(T)",
+  "refs": "[\\citenum{A.Manz2019}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 198,
+  "state": "$^3P$",
+  "year": 2019,
+  "z": 16
+}

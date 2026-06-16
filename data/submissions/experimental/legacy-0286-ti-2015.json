@@ -1,0 +1,13 @@
+{
+  "alpha": "$63.4 \\pm 3.4$",
+  "atom": "Ti",
+  "category": "experimental",
+  "comments": "exp.",
+  "refs": "[\\citenum{Ma2015}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 286,
+  "state": "$^3F_2^{,3d2}$",
+  "year": 2015,
+  "z": 22
+}

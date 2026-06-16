@@ -1,0 +1,13 @@
+{
+  "alpha": "$11.324$",
+  "atom": "C",
+  "category": "theoretical",
+  "comments": "NR, CCSD(T), CBS(Q, 5)",
+  "refs": "[\\citenum{Ehn2021}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 58,
+  "state": "$^3P$",
+  "year": 2021,
+  "z": 6
+}

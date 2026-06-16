@@ -31,6 +31,9 @@ jobs:
       - name: Install development version
         run: |
           pip install -e .
+      - name: Validate accepted data records
+        run: |
+          python scripts/validate_data.py
       - name: Run pytest
         uses: pavelzw/pytest-action@v2
         with:

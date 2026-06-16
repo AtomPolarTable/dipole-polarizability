@@ -1,0 +1,13 @@
+{
+  "alpha": "$63.82$",
+  "atom": "Fe",
+  "category": "theoretical",
+  "comments": "R, CCSD(T)/ANO-RCC",
+  "refs": "[\\citenum{Szarek2019}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 346,
+  "state": "$^5D,3d^6$",
+  "year": 2019,
+  "z": 26
+}

@@ -1,0 +1,13 @@
+{
+  "alpha": "$399.5 \\pm 0.8$",
+  "atom": "Cs",
+  "category": "theoretical",
+  "comments": "R, Dirac, RCC-SD",
+  "refs": "[\\citenum{Singh2016}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 703,
+  "state": "$^2S_{1/2}$",
+  "year": 2016,
+  "z": 55
+}

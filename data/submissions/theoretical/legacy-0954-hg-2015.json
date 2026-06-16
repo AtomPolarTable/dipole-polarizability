@@ -1,0 +1,13 @@
+{
+  "alpha": "$34.27$",
+  "atom": "Hg",
+  "category": "theoretical",
+  "comments": "R, Dirac, CCSDT + QED",
+  "refs": "[\\citenum{Singh2015}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 954,
+  "state": "$^1S_0, 5d^{10}$",
+  "year": 2015,
+  "z": 80
+}

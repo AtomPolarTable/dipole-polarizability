@@ -1,0 +1,13 @@
+{
+  "alpha": "$97.9$",
+  "atom": "Nb",
+  "category": "theoretical",
+  "comments": "TD-DFT (LEXX)",
+  "refs": "[\\citenum{Gould2016a}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 520,
+  "state": "$^6D_{1/2}, 4d^4$",
+  "year": 2016,
+  "z": 41
+}

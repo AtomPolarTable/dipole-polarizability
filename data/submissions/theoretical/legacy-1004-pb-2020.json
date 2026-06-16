@@ -1,0 +1,13 @@
+{
+  "alpha": "$46$",
+  "atom": "Pb",
+  "category": "theoretical",
+  "comments": "R, CI+MBPT",
+  "refs": "[\\citenum{Flambaum2020}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 1004,
+  "state": "$^3P_0$",
+  "year": 2020,
+  "z": 82
+}

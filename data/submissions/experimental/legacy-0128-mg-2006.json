@@ -1,0 +1,13 @@
+{
+  "alpha": "$70.89$",
+  "atom": "Mg",
+  "category": "experimental",
+  "comments": "R, Dirac, CI + MBPT2 + experimental data",
+  "refs": "[\\citenum{Porsev2006, Porsev2006a}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 128,
+  "state": "$^1S_0$",
+  "year": 2006,
+  "z": 12
+}

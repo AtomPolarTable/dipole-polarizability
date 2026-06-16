@@ -1,0 +1,13 @@
+{
+  "alpha": "$38.4$",
+  "atom": "Zn",
+  "category": "theoretical",
+  "comments": "R, DK, CASPT2",
+  "refs": "[\\citenum{Roos2005}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 395,
+  "state": "$^1S,3d^{{10}}$",
+  "year": 2005,
+  "z": 30
+}

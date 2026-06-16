@@ -1,0 +1,13 @@
+{
+  "alpha": "$161 \\pm 32$",
+  "atom": "Tm",
+  "category": "theoretical",
+  "comments": "TD-DFT",
+  "refs": "[\\citenum{Chu2007}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 819,
+  "state": "$4f^{13}$",
+  "year": 2007,
+  "z": 69
+}

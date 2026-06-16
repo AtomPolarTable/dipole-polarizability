@@ -1,0 +1,13 @@
+{
+  "alpha": "$74.9 \\pm 2.7$",
+  "atom": "Mg",
+  "category": "theoretical",
+  "comments": "Hybrid-RCI + MBPT sum rule",
+  "refs": "[\\citenum{Derevianko1999}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 123,
+  "state": "$^1S_0$",
+  "year": 1999,
+  "z": 12
+}

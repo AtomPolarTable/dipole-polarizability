@@ -1,0 +1,13 @@
+{
+  "alpha": "$46.02 \\pm 0.50$",
+  "atom": "Cd",
+  "category": "theoretical",
+  "comments": "R, DHF, CCSD(T)",
+  "refs": "[\\citenum{Sahoo2018b}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 605,
+  "state": "$^1S_0, 4d^{10}$",
+  "year": 2018,
+  "z": 48
+}

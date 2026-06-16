@@ -1,0 +1,13 @@
+{
+  "alpha": "$107 \\pm 5$",
+  "atom": "Rf",
+  "category": "theoretical",
+  "comments": "R, DF, CI + MBPT + Breit + QED",
+  "refs": "[\\citenum{Dzuba2014a}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 1152,
+  "state": "$6d^2$",
+  "year": 2014,
+  "z": 104
+}

@@ -1,0 +1,13 @@
+{
+  "alpha": "$110.8 \\pm 5.5$",
+  "atom": "No",
+  "category": "theoretical",
+  "comments": "R, Dirac + Gaunt, CCSD(T)",
+  "refs": "[\\citenum{Thierfelder2009}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 1139,
+  "state": "$^1S_0, 5f^{14}$",
+  "year": 2009,
+  "z": 102
+}

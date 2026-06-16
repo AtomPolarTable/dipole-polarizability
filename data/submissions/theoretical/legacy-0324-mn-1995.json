@@ -1,0 +1,13 @@
+{
+  "alpha": "$76 \\pm 11$",
+  "atom": "Mn",
+  "category": "theoretical",
+  "comments": "NR, MCPF",
+  "refs": "[\\citenum{Pou-Am\u00e9rigo1995}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 324,
+  "state": "$^6S,3d^5$",
+  "year": 1995,
+  "z": 25
+}

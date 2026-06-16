@@ -1,0 +1,13 @@
+{
+  "alpha": "$50 \\pm 12$",
+  "atom": "Bi",
+  "category": "theoretical",
+  "comments": "R, Dirac, LDA",
+  "refs": "[\\citenum{Lide2004, Doolen1987}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 1008,
+  "state": "$^4S$",
+  "year": 2004,
+  "z": 83
+}

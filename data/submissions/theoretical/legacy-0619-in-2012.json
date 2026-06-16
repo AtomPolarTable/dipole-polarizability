@@ -1,0 +1,13 @@
+{
+  "alpha": "$62.0 \\pm 1.9/69.7 \\pm 4.0$",
+  "atom": "In",
+  "category": "theoretical",
+  "comments": "\\makecell{R, Dirac, FSCC, $M_J$ res. \\\\($J = 3/2$: $M_J = 3/2$: 55.1, \\\\$M_J = 1/2$: 84.6)}",
+  "refs": "[\\citenum{Borschevsky2012}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 619,
+  "state": "$^2P_{1/2}/^2P_{3/2}$",
+  "year": 2012,
+  "z": 49
+}

@@ -1,0 +1,13 @@
+{
+  "alpha": "$35.87$",
+  "atom": "Rn",
+  "category": "theoretical",
+  "comments": "R, DFT, DC, PBE38",
+  "refs": "[\\citenum{Sulzer2012}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 1048,
+  "state": "$^1S_0$",
+  "year": 2012,
+  "z": 86
+}

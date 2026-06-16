@@ -1,0 +1,13 @@
+{
+  "alpha": "$37.787$",
+  "atom": "Be",
+  "category": "theoretical",
+  "comments": "R, DF, CICP (CP: core polarization)",
+  "refs": "[\\citenum{Wu2023}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 41,
+  "state": "$^1S_0$",
+  "year": 2023,
+  "z": 4
+}

@@ -1,0 +1,13 @@
+{
+  "alpha": "$2.665$",
+  "atom": "Ne",
+  "category": "theoretical",
+  "comments": "NR, CC3",
+  "refs": "[\\citenum{Hald2003}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 98,
+  "state": "$^1S$",
+  "year": 2003,
+  "z": 10
+}

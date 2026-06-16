@@ -1,0 +1,13 @@
+{
+  "alpha": "$37.73 \\pm 0.05$",
+  "atom": "Be",
+  "category": "theoretical",
+  "comments": "CCSD(T)",
+  "refs": "[\\citenum{Tunega1997}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 26,
+  "state": "$^1S_0$",
+  "year": 1997,
+  "z": 4
+}

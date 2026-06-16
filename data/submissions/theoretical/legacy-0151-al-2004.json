@@ -1,0 +1,13 @@
+{
+  "alpha": "$58.0 \\pm 0.4$",
+  "atom": "Al",
+  "category": "theoretical",
+  "comments": "CCSD(T)",
+  "refs": "[\\citenum{Fuentealba2004}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 151,
+  "state": "$^2P$",
+  "year": 2004,
+  "z": 13
+}

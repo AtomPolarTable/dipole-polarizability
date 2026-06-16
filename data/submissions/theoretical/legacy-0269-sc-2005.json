@@ -1,0 +1,13 @@
+{
+  "alpha": "$121 \\pm 12$",
+  "atom": "Sc",
+  "category": "theoretical",
+  "comments": "R, DK, MRCI",
+  "refs": "[\\citenum{K\u0142os2005a}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 269,
+  "state": "$^2D_{3/2}^{,3d1}$",
+  "year": 2005,
+  "z": 21
+}

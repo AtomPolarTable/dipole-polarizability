@@ -1,0 +1,13 @@
+{
+  "alpha": "$57.79 \\pm 0.30$",
+  "atom": "Al",
+  "category": "theoretical",
+  "comments": "R, DK, CCSD(T)",
+  "refs": "[\\citenum{Maroulis2006}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 155,
+  "state": "$^2P$",
+  "year": 2006,
+  "z": 13
+}

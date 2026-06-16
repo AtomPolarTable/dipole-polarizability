@@ -1,0 +1,13 @@
+{
+  "alpha": "$38.92$",
+  "atom": "Zn",
+  "category": "experimental",
+  "comments": "exp.+fitting",
+  "refs": "[\\citenum{Chattopadhyay2015, Qiao2012}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 399,
+  "state": "$^1S_0,3d^{{10}}$",
+  "year": 2015,
+  "z": 30
+}

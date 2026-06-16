@@ -1,0 +1,13 @@
+{
+  "alpha": "$38.8 \\pm 0.8$",
+  "atom": "Zn",
+  "category": "experimental",
+  "comments": "exp.",
+  "refs": "[\\citenum{Goebel1996}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 390,
+  "state": "$^1S_0,3d^{{10}}$",
+  "year": 1996,
+  "z": 30
+}

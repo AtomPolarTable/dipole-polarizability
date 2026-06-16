@@ -1,0 +1,13 @@
+{
+  "alpha": "$212 \\pm 53$",
+  "atom": "Nd",
+  "category": "theoretical",
+  "comments": "R, Dirac, LDA",
+  "refs": "[\\citenum{Lide2004, Doolen1987}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 748,
+  "state": "$4f^4$",
+  "year": 2004,
+  "z": 60
+}

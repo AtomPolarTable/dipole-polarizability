@@ -1,0 +1,13 @@
+{
+  "alpha": "$110 \\pm 8$",
+  "atom": "No",
+  "category": "theoretical",
+  "comments": "R, DF, CI + all-order + Breit + QED",
+  "refs": "[\\citenum{Dzuba2014, Dzuba2014a}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 1143,
+  "state": "$^1S_0, 5f^{14}$",
+  "year": 2014,
+  "z": 102
+}

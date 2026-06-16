@@ -1,0 +1,13 @@
+{
+  "alpha": "$16.800$",
+  "atom": "Kr",
+  "category": "theoretical",
+  "comments": "R, DHF, MBPT",
+  "refs": "[\\citenum{Dutta2020}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 462,
+  "state": "$^1S_0$",
+  "year": 2020,
+  "z": 36
+}

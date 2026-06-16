@@ -1,0 +1,13 @@
+{
+  "alpha": "$41.7$",
+  "atom": "Cu",
+  "category": "theoretical",
+  "comments": "TD-DFT (LEXX)",
+  "refs": "[\\citenum{Gould2016a}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 384,
+  "state": "$^2S_{1/2},3d{{10}}$",
+  "year": 2016,
+  "z": 29
+}

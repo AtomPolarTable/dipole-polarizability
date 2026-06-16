@@ -1,0 +1,13 @@
+{
+  "alpha": "$39.43 \\pm 0.80$",
+  "atom": "Ge",
+  "category": "theoretical",
+  "comments": "R, Dirac Gaunt, CCSD(T)",
+  "refs": "[\\citenum{Thierfelder2008}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 421,
+  "state": "$^3P_0$",
+  "year": 2008,
+  "z": 32
+}

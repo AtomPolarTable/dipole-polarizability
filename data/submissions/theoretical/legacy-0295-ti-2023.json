@@ -1,0 +1,13 @@
+{
+  "alpha": "$100.4 \\pm 1.8$",
+  "atom": "Ti",
+  "category": "theoretical",
+  "comments": "R, Dirac-HF, CI + all-order",
+  "refs": "[\\citenum{Eustice2023}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 295,
+  "state": "$^3F_4,3d^2$",
+  "year": 2023,
+  "z": 22
+}

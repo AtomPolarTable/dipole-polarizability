@@ -1,0 +1,13 @@
+{
+  "alpha": "$34.9$",
+  "atom": "Au",
+  "category": "theoretical",
+  "comments": "R, DK, CCSD(T)",
+  "refs": "[\\citenum{Wesendrup2000}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 932,
+  "state": "$^2S, 5d^{10}$",
+  "year": 2000,
+  "z": 79
+}

@@ -1,0 +1,13 @@
+{
+  "alpha": "$28.9 \\pm 1.0$",
+  "atom": "Se",
+  "category": "experimental",
+  "comments": "exp.",
+  "refs": "[\\citenum{Cuthbertson1997}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 437,
+  "state": "$^3P_2$",
+  "year": 1997,
+  "z": 34
+}

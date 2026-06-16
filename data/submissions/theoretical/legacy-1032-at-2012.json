@@ -1,0 +1,13 @@
+{
+  "alpha": "$40.7 \\pm 2.0$",
+  "atom": "At",
+  "category": "theoretical",
+  "comments": "R, Cowan-Griffin, HF only",
+  "refs": "[\\citenum{Maroulis2006, Hohm2012, Kell\u00f61992}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 1032,
+  "state": "$^2P_{3/2}$",
+  "year": 2012,
+  "z": 85
+}

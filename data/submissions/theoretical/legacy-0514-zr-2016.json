@@ -1,0 +1,13 @@
+{
+  "alpha": "$109.8$",
+  "atom": "Zr",
+  "category": "theoretical",
+  "comments": "SIC-DFT (RXH)",
+  "refs": "[\\citenum{Gould2016b}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 514,
+  "state": "$^3F_2, 4d^2$",
+  "year": 2016,
+  "z": 40
+}

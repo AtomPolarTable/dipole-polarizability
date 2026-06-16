@@ -1,0 +1,13 @@
+{
+  "alpha": "$51.6/81.2$",
+  "atom": "Tl",
+  "category": "theoretical",
+  "comments": "R, Dirac, MRCI, $M_J$ res.",
+  "refs": "[\\citenum{Fleig2005}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 972,
+  "state": "$^2P_{1/2}/^2P_{3/2}$",
+  "year": 2005,
+  "z": 81
+}

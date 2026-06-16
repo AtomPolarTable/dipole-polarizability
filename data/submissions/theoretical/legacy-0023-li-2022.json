@@ -1,0 +1,13 @@
+{
+  "alpha": "$162.00 \\pm 0.24$",
+  "atom": "Li",
+  "category": "theoretical",
+  "comments": "R, Dirac-HF, pertubative singles + doubles method, RPA",
+  "refs": "[\\citenum{Badhan2022}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 23,
+  "state": "$^2S_{1/2}$",
+  "year": 2022,
+  "z": 3
+}

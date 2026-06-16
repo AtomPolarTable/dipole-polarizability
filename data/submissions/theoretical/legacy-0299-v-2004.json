@@ -1,0 +1,13 @@
+{
+  "alpha": "$84 \\pm 21$",
+  "atom": "V",
+  "category": "theoretical",
+  "comments": "R, Dirac, LDA",
+  "refs": "[\\citenum{Lide2004, Doolen1987}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 299,
+  "state": "$^4F_{3/2},3d^3$",
+  "year": 2004,
+  "z": 23
+}

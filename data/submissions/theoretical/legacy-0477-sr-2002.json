@@ -1,0 +1,13 @@
+{
+  "alpha": "$198.5 \\pm 1.3$",
+  "atom": "Sr",
+  "category": "theoretical",
+  "comments": "CI, oscillator strength correction",
+  "refs": "[\\citenum{Bromley2002}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 477,
+  "state": "$^1S_0$",
+  "year": 2002,
+  "z": 38
+}

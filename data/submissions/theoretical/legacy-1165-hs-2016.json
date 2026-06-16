@@ -1,0 +1,13 @@
+{
+  "alpha": "$36 \\pm 4$",
+  "atom": "Hs",
+  "category": "theoretical",
+  "comments": "R, RPA, PolPot (value recommended by authors)",
+  "refs": "[\\citenum{Dzuba2016b}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 1165,
+  "state": "$6d^6$",
+  "year": 2016,
+  "z": 108
+}

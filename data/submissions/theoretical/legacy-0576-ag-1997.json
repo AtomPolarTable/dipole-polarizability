@@ -1,0 +1,13 @@
+{
+  "alpha": "$55.3 \\pm 0.5$",
+  "atom": "Ag",
+  "category": "theoretical",
+  "comments": "R, DK, CCSD(T)",
+  "refs": "[\\citenum{Neogr\u00e1dy1997}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 576,
+  "state": "$^2S_{1/2}, 4d^{10}$",
+  "year": 1997,
+  "z": 47
+}

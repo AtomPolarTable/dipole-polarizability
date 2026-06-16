@@ -1,0 +1,13 @@
+{
+  "alpha": "$99.52$",
+  "atom": "Hf",
+  "category": "theoretical",
+  "comments": "LR-CCSD",
+  "refs": "[\\citenum{gobre2016efficient}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 870,
+  "state": "$^3F_2, 5d^2$",
+  "year": 2016,
+  "z": 72
+}

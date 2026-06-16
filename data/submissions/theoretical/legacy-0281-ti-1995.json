@@ -1,0 +1,13 @@
+{
+  "alpha": "$114 \\pm 17$",
+  "atom": "Ti",
+  "category": "theoretical",
+  "comments": "NR, MCPF",
+  "refs": "[\\citenum{Pou-Am\u00e9rigo1995}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 281,
+  "state": "$^3F^{,3d2}$",
+  "year": 1995,
+  "z": 22
+}

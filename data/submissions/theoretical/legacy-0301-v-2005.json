@@ -1,0 +1,13 @@
+{
+  "alpha": "$87.3 \\pm 8.7$",
+  "atom": "V",
+  "category": "theoretical",
+  "comments": "R, DK, MRCI",
+  "refs": "[\\citenum{K\u0142os2005a}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 301,
+  "state": "$^4F_{3/2},3d^3$",
+  "year": 2005,
+  "z": 23
+}

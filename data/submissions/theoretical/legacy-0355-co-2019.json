@@ -1,0 +1,13 @@
+{
+  "alpha": "$62.03$",
+  "atom": "Co",
+  "category": "theoretical",
+  "comments": "NR, CCSD",
+  "refs": "[\\citenum{A.Manz2019}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 355,
+  "state": "$^4F_{9/2},3d^7$",
+  "year": 2019,
+  "z": 27
+}

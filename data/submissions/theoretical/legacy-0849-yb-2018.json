@@ -1,0 +1,13 @@
+{
+  "alpha": "$135 \\pm 3$",
+  "atom": "Yb",
+  "category": "theoretical",
+  "comments": "R, CI+MBPT+FC",
+  "refs": "[\\citenum{Tang2018}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 849,
+  "state": "$^1S_0, 4f^{14}$",
+  "year": 2018,
+  "z": 70
+}

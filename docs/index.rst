@@ -1,8 +1,8 @@
 Welcome to Pydipole's documentation!
 =======================================
 
-`Pydipole <https://github.com/AtomPolarTable/dipole-polarizability>`_ is a Python package to maintain
-Table of atomic dipole polarizability for neutural atoms in the Periodic Table.
+`Pydipole <https://github.com/AtomPolarTable/dipole-polarizability>`_ is a Python package for maintaining
+and publishing curated atomic dipole polarizability data for neutral atoms in the Periodic Table.
 
 This version contains contributions from
 Peter Schwerdtfeger (1)
@@ -46,24 +46,18 @@ Modules
 
 
 .. toctree::
-    :maxdepth: 2
-    :caption: User Documentation
+   :maxdepth: 2
+   :caption: User Documentation
 
-    ./installation.rst
-
-.. toctree::
-    :maxdepth: 1
-    :caption: Quick Start
-
-    ./notebooks/table.ipynb
-
+   ./installation.rst
+   ./quickstart.rst
+   ./data_workflow.rst
 
 .. toctree::
    :maxdepth: 2
    :caption: API Documentation
 
    pyapi/modules.rst
-
 
 Indices and tables
 ==================

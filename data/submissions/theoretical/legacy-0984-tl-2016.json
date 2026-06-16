@@ -1,0 +1,13 @@
+{
+  "alpha": "$47.78$",
+  "atom": "Tl",
+  "category": "theoretical",
+  "comments": "R, Dirac+Breit+QED, SD+CI, RPA",
+  "refs": "[\\citenum{Dzuba2016}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 984,
+  "state": "$^2P$",
+  "year": 2016,
+  "z": 81
+}

@@ -1,0 +1,13 @@
+{
+  "alpha": "$24.93 \\pm 0.15$",
+  "atom": "P",
+  "category": "theoretical",
+  "comments": "NR, CCSD(T)",
+  "refs": "[\\citenum{Lupinetti2005}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 185,
+  "state": "$^4S$",
+  "year": 2005,
+  "z": 15
+}

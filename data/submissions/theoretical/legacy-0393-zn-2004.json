@@ -1,0 +1,13 @@
+{
+  "alpha": "$38 \\pm 9$",
+  "atom": "Zn",
+  "category": "theoretical",
+  "comments": "R, Dirac, LDA",
+  "refs": "[\\citenum{Lide2004, Doolen1987}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 393,
+  "state": "$^1S_0,3d^{{10}}$",
+  "year": 2004,
+  "z": 30
+}

@@ -1,0 +1,13 @@
+{
+  "alpha": "$399.9 \\pm 1.9$",
+  "atom": "Cs",
+  "category": "experimental",
+  "comments": "R, Dirac, SD, all orders + exp. data",
+  "refs": "[\\citenum{Derevianko1999}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 694,
+  "state": "$^2S_{1/2}$",
+  "year": 1999,
+  "z": 55
+}

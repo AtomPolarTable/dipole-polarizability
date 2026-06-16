@@ -1,0 +1,13 @@
+{
+  "alpha": "$137 \\pm 9$",
+  "atom": "U",
+  "category": "experimental",
+  "comments": "exp.",
+  "refs": "[\\citenum{Kadar-Kallen1994}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 1102,
+  "state": "$^5L_6, 5f^3 6d^1$",
+  "year": 1994,
+  "z": 92
+}

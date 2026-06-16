@@ -1,0 +1,13 @@
+{
+  "alpha": "$88.42$",
+  "atom": "Mo",
+  "category": "theoretical",
+  "comments": "LR-CCSD",
+  "refs": "[\\citenum{gobre2016efficient}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 531,
+  "state": "$^7S_3, 4d^5$",
+  "year": 2016,
+  "z": 42
+}

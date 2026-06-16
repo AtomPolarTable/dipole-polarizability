@@ -1,0 +1,13 @@
+{
+  "alpha": "$45.91/53.99$",
+  "atom": "Cd",
+  "category": "theoretical",
+  "comments": "CCSD R/NR",
+  "refs": "[\\citenum{Moszynski2003}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 599,
+  "state": "$^1S_0, 4d^{10}$",
+  "year": 2003,
+  "z": 48
+}

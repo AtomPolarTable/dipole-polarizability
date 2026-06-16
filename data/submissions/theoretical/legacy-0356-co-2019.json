@@ -1,0 +1,13 @@
+{
+  "alpha": "$56.66$",
+  "atom": "Co",
+  "category": "theoretical",
+  "comments": "R, CCSD(T)/ANO-RCC",
+  "refs": "[\\citenum{Szarek2019}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 356,
+  "state": "$^4F_{9/2},3d^7$",
+  "year": 2019,
+  "z": 27
+}

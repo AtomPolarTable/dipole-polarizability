@@ -1,0 +1,13 @@
+{
+  "alpha": "$27.16$",
+  "atom": "Xe",
+  "category": "theoretical",
+  "comments": "DOSD (constrained dipole oscillator strength distribution)",
+  "refs": "[\\citenum{Thakkar1992}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 676,
+  "state": "$^1S_0$",
+  "year": 1992,
+  "z": 54
+}

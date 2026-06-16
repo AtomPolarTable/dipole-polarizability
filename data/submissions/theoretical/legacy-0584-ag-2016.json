@@ -1,0 +1,13 @@
+{
+  "alpha": "$55.2$",
+  "atom": "Ag",
+  "category": "theoretical",
+  "comments": "Semi-empirical",
+  "refs": "[\\citenum{Dyugaev2016}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 584,
+  "state": "$^2S, 4d^{10}$",
+  "year": 2016,
+  "z": 47
+}

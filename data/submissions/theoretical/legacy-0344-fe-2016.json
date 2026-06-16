@@ -1,0 +1,13 @@
+{
+  "alpha": "$56.3$",
+  "atom": "Fe",
+  "category": "theoretical",
+  "comments": "SIC-DFT (RXH)",
+  "refs": "[\\citenum{Gould2016b}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 344,
+  "state": "$^5D_4,3d^6$",
+  "year": 2016,
+  "z": 26
+}

@@ -1,0 +1,13 @@
+{
+  "alpha": "$46.8$",
+  "atom": "Cd",
+  "category": "theoretical",
+  "comments": "R, MVD, CCSD(T)",
+  "refs": "[\\citenum{Kell\u00f61995}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 594,
+  "state": "$^1S, 4d^{10}$",
+  "year": 1995,
+  "z": 48
+}

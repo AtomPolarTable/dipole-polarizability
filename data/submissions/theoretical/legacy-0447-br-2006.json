@@ -1,0 +1,13 @@
+{
+  "alpha": "$21.13 \\pm 0.42$",
+  "atom": "Br",
+  "category": "theoretical",
+  "comments": "R, MVD, CASPT2",
+  "refs": "[\\citenum{Maroulis2006, MEDVE\u010e2000a}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 447,
+  "state": "$^2P$",
+  "year": 2006,
+  "z": 35
+}

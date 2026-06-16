@@ -1,9 +1,5 @@
 /** css/override.css **/
 
-
-/* This line is theme specific - it includes the base theme CSS */
-@import 'theme.css';       /* for the Read the Docs theme */
-
 table.docutils {
     border-collapse: separate !important;
 }
@@ -38,6 +34,8 @@ table.docutils tbody tr.row-odd td {
     background-color: rgb(252, 252, 252);
 }
 
-div.wy-table-responsive {
+.content table.docutils {
+    display: block;
     max-height: 90vh;
+    overflow: auto;
 }

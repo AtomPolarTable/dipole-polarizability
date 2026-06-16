@@ -1,0 +1,13 @@
+{
+  "alpha": "$98.373$",
+  "atom": "Ti",
+  "category": "theoretical",
+  "comments": "R, CCSD(T)",
+  "refs": "[\\citenum{Neto2021}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 294,
+  "state": "$^3F,3d^2$",
+  "year": 2021,
+  "z": 22
+}

@@ -1,0 +1,13 @@
+{
+  "alpha": "$27.2937 \\pm 0.0003$",
+  "atom": "Xe",
+  "category": "theoretical",
+  "comments": "CCSD(T), ECP",
+  "refs": "[\\citenum{Sold\u00e1n2001a}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 680,
+  "state": "$^1S_0$",
+  "year": 2001,
+  "z": 54
+}

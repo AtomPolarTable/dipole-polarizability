@@ -1,0 +1,13 @@
+{
+  "alpha": "$202.0$",
+  "atom": "Sr",
+  "category": "theoretical",
+  "comments": "Hybrid-RCI + MBPT sum rule",
+  "refs": "[\\citenum{Porsev2006}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 483,
+  "state": "$^1S_0$",
+  "year": 2006,
+  "z": 38
+}

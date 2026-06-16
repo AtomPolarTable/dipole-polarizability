@@ -1,0 +1,13 @@
+{
+  "alpha": "$51.3$",
+  "atom": "Tl",
+  "category": "theoretical",
+  "comments": "R, Dirac, FS-CCSD",
+  "refs": "[\\citenum{Borschevsky2015, Pershina2008a}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 983,
+  "state": "$^2P$",
+  "year": 2015,
+  "z": 81
+}

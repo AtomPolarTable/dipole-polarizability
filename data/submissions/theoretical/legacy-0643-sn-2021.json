@@ -1,0 +1,13 @@
+{
+  "alpha": "$61.063$",
+  "atom": "Sn",
+  "category": "theoretical",
+  "comments": "R, CCSD(T)",
+  "refs": "[\\citenum{Neto2021}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 643,
+  "state": "$^3P_0$",
+  "year": 2021,
+  "z": 50
+}

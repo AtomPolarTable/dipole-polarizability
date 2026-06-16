@@ -1,0 +1,13 @@
+{
+  "alpha": "$57 \\pm 14$",
+  "atom": "Fe",
+  "category": "theoretical",
+  "comments": "R, Dirac, LDA",
+  "refs": "[\\citenum{Lide2004, Doolen1987}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 339,
+  "state": "$^5D_4,3d^6$",
+  "year": 2004,
+  "z": 26
+}

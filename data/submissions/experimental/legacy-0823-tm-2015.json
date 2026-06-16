@@ -1,0 +1,13 @@
+{
+  "alpha": "$130 \\pm 16$",
+  "atom": "Tm",
+  "category": "experimental",
+  "comments": "exp.",
+  "refs": "[\\citenum{Ma2015}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 823,
+  "state": "$^2F_{7/2}, 4f^{13}$",
+  "year": 2015,
+  "z": 69
+}

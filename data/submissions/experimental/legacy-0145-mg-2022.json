@@ -1,0 +1,13 @@
+{
+  "alpha": "$81 \\pm 17$",
+  "atom": "Mg",
+  "category": "experimental",
+  "comments": "exp.",
+  "refs": "[\\citenum{Sarkisov2022}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 145,
+  "state": "$^1S_0$",
+  "year": 2022,
+  "z": 12
+}

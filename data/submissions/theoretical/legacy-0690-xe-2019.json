@@ -1,0 +1,13 @@
+{
+  "alpha": "$26.6$",
+  "atom": "Xe",
+  "category": "theoretical",
+  "comments": "ECP, CCSD",
+  "refs": "[\\citenum{A.Manz2019}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 690,
+  "state": "$^1S_0$",
+  "year": 2019,
+  "z": 54
+}

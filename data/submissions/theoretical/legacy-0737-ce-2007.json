@@ -1,0 +1,13 @@
+{
+  "alpha": "$194 \\pm 39$",
+  "atom": "Ce",
+  "category": "theoretical",
+  "comments": "TD-DFT",
+  "refs": "[\\citenum{Chu2007}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 737,
+  "state": "$4f^1 5d^1$",
+  "year": 2007,
+  "z": 58
+}

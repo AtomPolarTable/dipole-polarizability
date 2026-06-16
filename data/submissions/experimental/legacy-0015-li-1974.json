@@ -1,0 +1,13 @@
+{
+  "alpha": "$164.0 \\pm 3.4$",
+  "atom": "Li",
+  "category": "experimental",
+  "comments": "exp.",
+  "refs": "[\\citenum{Molof1974}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 15,
+  "state": "$^2S_{1/2}$",
+  "year": 1974,
+  "z": 3
+}

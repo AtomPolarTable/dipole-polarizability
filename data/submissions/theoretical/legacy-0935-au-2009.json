@@ -1,0 +1,13 @@
+{
+  "alpha": "$35.1$",
+  "atom": "Au",
+  "category": "theoretical",
+  "comments": "R, PP, QCISD(T)",
+  "refs": "[\\citenum{Schwerdtfeger1994, Mohr2009, Schwerdtfeger2000}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 935,
+  "state": "$^2S, 5d^{10}$",
+  "year": 2009,
+  "z": 79
+}

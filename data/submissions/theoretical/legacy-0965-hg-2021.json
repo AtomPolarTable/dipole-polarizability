@@ -1,0 +1,13 @@
+{
+  "alpha": "$33.69 \\pm 0.34$",
+  "atom": "Hg",
+  "category": "theoretical",
+  "comments": "PRCC(T)+Breitt+QED",
+  "refs": "[\\citenum{Kumar2021}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 965,
+  "state": "$^1S_0, 5d^{10}$",
+  "year": 2021,
+  "z": 80
+}

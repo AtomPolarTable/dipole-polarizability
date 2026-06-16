@@ -1,0 +1,13 @@
+{
+  "alpha": "$33.18$",
+  "atom": "Rn",
+  "category": "theoretical",
+  "comments": "R, DK3, CCSD(T)",
+  "refs": "[\\citenum{Nakajima2001}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 1040,
+  "state": "$^1S$",
+  "year": 2001,
+  "z": 86
+}

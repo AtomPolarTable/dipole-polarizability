@@ -1,0 +1,13 @@
+{
+  "alpha": "$398.4 \\pm 0.7$",
+  "atom": "Cs",
+  "category": "theoretical",
+  "comments": "R, DF, RPA, SD-all order",
+  "refs": "[\\citenum{Iskrenova-Tchoukova2008a}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 699,
+  "state": "$^2S_{1/2}$",
+  "year": 2008,
+  "z": 55
+}

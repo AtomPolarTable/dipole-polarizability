@@ -1,0 +1,13 @@
+{
+  "alpha": "$71.4$",
+  "atom": "Ru",
+  "category": "theoretical",
+  "comments": "SIC-DFT (RXH)",
+  "refs": "[\\citenum{Gould2016b}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 553,
+  "state": "$^5F_5, 4d^7$",
+  "year": 2016,
+  "z": 44
+}

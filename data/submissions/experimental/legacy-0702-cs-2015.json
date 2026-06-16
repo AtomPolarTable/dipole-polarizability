@@ -1,0 +1,13 @@
+{
+  "alpha": "$396.7 \\pm 7.9$",
+  "atom": "Cs",
+  "category": "experimental",
+  "comments": "Combination of theoretical and experimental data",
+  "refs": "[\\citenum{Jiang2015a}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 702,
+  "state": "$^2S_{1/2}$",
+  "year": 2015,
+  "z": 55
+}

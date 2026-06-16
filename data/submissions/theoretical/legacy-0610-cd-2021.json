@@ -1,0 +1,13 @@
+{
+  "alpha": "$45.8$",
+  "atom": "Cd",
+  "category": "theoretical",
+  "comments": "ECP, CCSD(T)",
+  "refs": "[\\citenum{Zaremba-Kopczyk2021}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 610,
+  "state": "$^1S_0, 4d^{10}$",
+  "year": 2021,
+  "z": 48
+}

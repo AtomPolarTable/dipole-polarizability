@@ -84,6 +84,44 @@ If no `.bib` filename is provided, the default is `references.bib`.
 
 Then, compile the `.tex` file using `LaTeX`. An example is available in the [`tables/2023`](https://github.com/AtomPolarTable/dipole-polarizability/blob/main/tables/2023) directory.
 
+To generate a table from an annual curated release stored in this repository:
+
+```bash
+write-table --release 2026 table.tex --bib references.bib
+write-table --latest table.tex --bib references.bib
+```
+
+## Community data submissions
+
+The curated database is stored as individual JSON records in
+`data/submissions/theoretical/` and `data/submissions/experimental/`. Existing
+packaged rows were imported there with `source: "legacy_database"` and
+`source_row` fields, so maintainers can correct old records by editing the
+matching JSON file rather than editing `database.csv`.
+Duplicate historical rows were removed during import, and validation rejects
+duplicate accepted records.
+
+New theoretical and experimental values can be proposed through the GitHub issue
+templates. After review, accepted records should be added as JSON files, with
+BibTeX additions in `data/references/`.
+
+Maintainers can validate accepted records and publish an annual snapshot with:
+
+```bash
+python scripts/validate_data.py
+python scripts/build_release.py --year 2026
+```
+
+Annual releases are written to `data/releases/YEAR/` and include
+`database.csv`, `references.bib`, and `table.tex`. Do not edit generated
+`database.csv` files for routine updates. Add or correct reviewed records as
+individual JSON files, then rebuild the annual release. When preparing a package
+release, maintainers can also refresh the bundled default data with:
+
+```bash
+python scripts/build_release.py --year 2026 --sync-package-data
+```
+
 
 ## Citations
 

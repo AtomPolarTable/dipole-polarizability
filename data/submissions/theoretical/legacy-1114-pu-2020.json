@@ -1,0 +1,13 @@
+{
+  "alpha": "$144$",
+  "atom": "Pu",
+  "category": "theoretical",
+  "comments": "R, CI+MBPT",
+  "refs": "[\\citenum{Flambaum2020}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 1114,
+  "state": "$5f^6$",
+  "year": 2020,
+  "z": 94
+}

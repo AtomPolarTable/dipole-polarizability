@@ -1,0 +1,13 @@
+{
+  "alpha": "$46.1$",
+  "atom": "Cu",
+  "category": "theoretical",
+  "comments": "TD-DFT (PGG)",
+  "refs": "[\\citenum{Gould2016b}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 385,
+  "state": "$^2S_{1/2},3d{{10}}$",
+  "year": 2016,
+  "z": 29
+}

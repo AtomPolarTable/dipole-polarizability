@@ -1,0 +1,13 @@
+{
+  "alpha": "$236 \\pm 15$",
+  "atom": "Ra",
+  "category": "theoretical",
+  "comments": "R, CCSD(T)",
+  "refs": "[\\citenum{Sahoo2018}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 1085,
+  "state": "$^1S_0$",
+  "year": 2018,
+  "z": 88
+}

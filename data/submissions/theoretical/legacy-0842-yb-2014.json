@@ -1,0 +1,13 @@
+{
+  "alpha": "$138.9$",
+  "atom": "Yb",
+  "category": "theoretical",
+  "comments": "\\makecell{R, Dirac, CI + MBPT + CP(RPA); \\\\($\\alpha_D$ = 312.2 for \\\\the $4f^14 6s^1 6p^1$ configuration)}",
+  "refs": "[\\citenum{Dzuba2014}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 842,
+  "state": "$^1S_0, 4f^{14}$",
+  "year": 2014,
+  "z": 70
+}

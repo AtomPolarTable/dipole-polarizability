@@ -1,0 +1,13 @@
+{
+  "alpha": "$162.6 \\pm 0.3$",
+  "atom": "Na",
+  "category": "experimental",
+  "comments": "R, SD all orders + exp. data",
+  "refs": "[\\citenum{Derevianko1999}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 110,
+  "state": "$^2S_{1/2}$",
+  "year": 1999,
+  "z": 11
+}

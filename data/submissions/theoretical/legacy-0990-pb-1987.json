@@ -1,0 +1,13 @@
+{
+  "alpha": "$46 \\pm 11$",
+  "atom": "Pb",
+  "category": "theoretical",
+  "comments": "R, Dirac, LDA",
+  "refs": "[\\citenum{Doolen1987}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 990,
+  "state": "$^3P$",
+  "year": 1987,
+  "z": 82
+}

@@ -1,0 +1,13 @@
+{
+  "alpha": "$7.367$",
+  "atom": "N",
+  "category": "theoretical",
+  "comments": "NR, CCSD(T), CBS(T, Q)",
+  "refs": "[\\citenum{Ehn2021}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 71,
+  "state": "$^4S$",
+  "year": 2021,
+  "z": 7
+}

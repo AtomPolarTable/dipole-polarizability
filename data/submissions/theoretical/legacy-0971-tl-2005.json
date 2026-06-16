@@ -1,0 +1,13 @@
+{
+  "alpha": "$70.0$",
+  "atom": "Tl",
+  "category": "theoretical",
+  "comments": "R, SF, MRCI, $M_L$ res.",
+  "refs": "[\\citenum{Fleig2005}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 971,
+  "state": "$^2P$",
+  "year": 2005,
+  "z": 81
+}

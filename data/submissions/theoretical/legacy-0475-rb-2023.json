@@ -1,0 +1,13 @@
+{
+  "alpha": "$319.5 \\pm 1.5$",
+  "atom": "Rb",
+  "category": "theoretical",
+  "comments": "\\makecell{R, TDHF + Breit + QED + scaling \\\\+ structure radiation + normaliz.}",
+  "refs": "[\\citenum{Hamilton2023}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 475,
+  "state": "$^2S_{1/2}$",
+  "year": 2023,
+  "z": 37
+}

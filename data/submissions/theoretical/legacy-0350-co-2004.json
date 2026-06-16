@@ -1,0 +1,13 @@
+{
+  "alpha": "$51 \\pm 13$",
+  "atom": "Co",
+  "category": "theoretical",
+  "comments": "R, Dirac, LDA",
+  "refs": "[\\citenum{Lide2004, Doolen1987}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 350,
+  "state": "$^4F_{9/2},3d^7$",
+  "year": 2004,
+  "z": 27
+}

@@ -1,0 +1,13 @@
+{
+  "alpha": "$38 \\pm 4$",
+  "atom": "Te",
+  "category": "theoretical",
+  "comments": "recommended",
+  "refs": "[\\citenum{Schwerdtfeger2019}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 660,
+  "state": "$--$",
+  "year": 2019,
+  "z": 52
+}

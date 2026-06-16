@@ -1,0 +1,13 @@
+{
+  "alpha": "$46 \\pm 2$",
+  "atom": "Cd",
+  "category": "theoretical",
+  "comments": "R, DFCP+RCI",
+  "refs": "[\\citenum{Zhou2021a}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 611,
+  "state": "$^1S_0, 4d^{10}$",
+  "year": 2021,
+  "z": 48
+}

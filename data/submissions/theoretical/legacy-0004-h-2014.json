@@ -1,0 +1,13 @@
+{
+  "alpha": "$4.4997519518$",
+  "atom": "H",
+  "category": "theoretical",
+  "comments": "R, Dirac, Lagrange mesh method (more digits are given in this paper)",
+  "refs": "[\\citenum{Filippin2014}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 4,
+  "state": "$^2S_{1/2}$",
+  "year": 2014,
+  "z": 1
+}

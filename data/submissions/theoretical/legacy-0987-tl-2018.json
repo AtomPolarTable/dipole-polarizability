@@ -1,0 +1,13 @@
+{
+  "alpha": "$49.2 \\pm 2.0$",
+  "atom": "Tl",
+  "category": "theoretical",
+  "comments": "R, Dirac+Breit, CCSD",
+  "refs": "[\\citenum{Tang2018a}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 987,
+  "state": "$^2P$",
+  "year": 2018,
+  "z": 81
+}

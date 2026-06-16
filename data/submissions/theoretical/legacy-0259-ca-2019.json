@@ -1,0 +1,13 @@
+{
+  "alpha": "$157.5$",
+  "atom": "Ca",
+  "category": "theoretical",
+  "comments": "R, KRCISD/aug-QZ",
+  "refs": "[\\citenum{Bala2019}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 259,
+  "state": "$^1S_0$",
+  "year": 2019,
+  "z": 20
+}

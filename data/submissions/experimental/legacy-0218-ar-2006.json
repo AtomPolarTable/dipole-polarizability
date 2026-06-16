@@ -1,0 +1,13 @@
+{
+  "alpha": "$11.078 \\pm 0.010$",
+  "atom": "Ar",
+  "category": "experimental",
+  "comments": "exp.",
+  "refs": "[\\citenum{Maroulis2006}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 218,
+  "state": "$^1S_0$",
+  "year": 2006,
+  "z": 18
+}

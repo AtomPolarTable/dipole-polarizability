@@ -1,0 +1,68 @@
+name: Theoretical polarizability data
+description: Submit a theoretical atomic dipole polarizability value for maintainer review.
+title: "[Theoretical data]: "
+labels: ["data-submission", "theoretical"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form for theoretical or computational values. Maintainers will review accepted submissions and convert approved records into curated JSON files.
+  - type: input
+    id: element
+    attributes:
+      label: Element symbol
+      description: Chemical symbol, for example Ar.
+      placeholder: Ar
+    validations:
+      required: true
+  - type: input
+    id: atomic-number
+    attributes:
+      label: Atomic number
+      placeholder: "18"
+    validations:
+      required: true
+  - type: input
+    id: state
+    attributes:
+      label: Electronic state
+      placeholder: "$^1S_0$"
+    validations:
+      required: true
+  - type: input
+    id: alpha
+    attributes:
+      label: Dipole polarizability
+      description: Prefer atomic units. If another unit is used, explain conversion below.
+      placeholder: "11.083 a.u."
+    validations:
+      required: true
+  - type: textarea
+    id: method
+    attributes:
+      label: Method and assumptions
+      description: Include method, basis set, relativistic treatment, isotope or mass corrections, and uncertainty if available.
+      placeholder: "CCSD(T), static polarizability, nonrelativistic, uncertainty not reported."
+    validations:
+      required: true
+  - type: input
+    id: year
+    attributes:
+      label: Publication year
+      placeholder: "2026"
+    validations:
+      required: true
+  - type: textarea
+    id: reference
+    attributes:
+      label: Reference
+      description: Provide DOI, arXiv, URL, or BibTeX.
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional notes
+      description: Add duplicate checks, conversion details, or comments for the table.
+    validations:
+      required: false

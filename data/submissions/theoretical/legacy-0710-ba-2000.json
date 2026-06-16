@@ -1,0 +1,13 @@
+{
+  "alpha": "$261.2$",
+  "atom": "Ba",
+  "category": "theoretical",
+  "comments": "Model potential",
+  "refs": "[\\citenum{Patil2000}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 710,
+  "state": "$^1S_0$",
+  "year": 2000,
+  "z": 56
+}

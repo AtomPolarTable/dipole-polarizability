@@ -1,0 +1,13 @@
+{
+  "alpha": "$170$",
+  "atom": "Pa",
+  "category": "theoretical",
+  "comments": "R, CI+MBPT",
+  "refs": "[\\citenum{Flambaum2020}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 1101,
+  "state": "$5f^2 6d^1$",
+  "year": 2020,
+  "z": 91
+}

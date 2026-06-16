@@ -1,0 +1,13 @@
+{
+  "alpha": "$50.2$",
+  "atom": "Ag",
+  "category": "theoretical",
+  "comments": "SR, ECP, CCSD(T)",
+  "refs": "[\\citenum{Tomza2021, Smialkowski2021}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 591,
+  "state": "$^2S_{1/2}, 4d^{10}$",
+  "year": 2021,
+  "z": 47
+}

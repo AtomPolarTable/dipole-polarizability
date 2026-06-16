@@ -1,0 +1,13 @@
+{
+  "alpha": "$5.41 \\pm 0.11$",
+  "atom": "O",
+  "category": "theoretical",
+  "comments": "NR, PNO-CEPA, $M_L$ res.",
+  "refs": "[\\citenum{Werner1976, Lide2004}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 77,
+  "state": "$^3P$",
+  "year": 2004,
+  "z": 8
+}

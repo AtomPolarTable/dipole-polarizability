@@ -1,0 +1,13 @@
+{
+  "alpha": "$1.38376078 \\pm 0.00000014$",
+  "atom": "He",
+  "category": "theoretical",
+  "comments": "R, Dirac, Breit-Pauli, QED + finite nuclear size correction",
+  "refs": "[\\citenum{Puchalski2020}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 14,
+  "state": "$^1S_0$",
+  "year": 2020,
+  "z": 2
+}

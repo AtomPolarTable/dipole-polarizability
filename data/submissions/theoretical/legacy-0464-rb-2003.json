@@ -1,0 +1,13 @@
+{
+  "alpha": "$315.7$",
+  "atom": "Rb",
+  "category": "theoretical",
+  "comments": "Combination of ab initio and semi-empirical methods",
+  "refs": "[\\citenum{Mitroy2003}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 464,
+  "state": "$^2S$",
+  "year": 2003,
+  "z": 37
+}

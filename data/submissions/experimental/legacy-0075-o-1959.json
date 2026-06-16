@@ -1,0 +1,13 @@
+{
+  "alpha": "$5.2 \\pm 0.4$",
+  "atom": "O",
+  "category": "experimental",
+  "comments": "exp.",
+  "refs": "[\\citenum{Alpher1959}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 75,
+  "state": "$^3P_2$",
+  "year": 1959,
+  "z": 8
+}

@@ -1,0 +1,13 @@
+{
+  "alpha": "$39.78$",
+  "atom": "Ge",
+  "category": "theoretical",
+  "comments": "NR, CCSD",
+  "refs": "[\\citenum{A.Manz2019}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 423,
+  "state": "$^3P_0$",
+  "year": 2019,
+  "z": 32
+}

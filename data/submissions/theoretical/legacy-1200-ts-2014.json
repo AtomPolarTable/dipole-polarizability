@@ -1,0 +1,13 @@
+{
+  "alpha": "$52.24$",
+  "atom": "Ts",
+  "category": "theoretical",
+  "comments": "Estimated via correlation with $R_\\text{max}(np_{3/2})$",
+  "refs": "[\\citenum{Pershina2014}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 1200,
+  "state": "$^2P_{3/2}$",
+  "year": 2014,
+  "z": 117
+}

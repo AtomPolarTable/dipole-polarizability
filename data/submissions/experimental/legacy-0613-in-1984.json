@@ -1,0 +1,13 @@
+{
+  "alpha": "$68.7 \\pm 8.1$",
+  "atom": "In",
+  "category": "experimental",
+  "comments": "exp.",
+  "refs": "[\\citenum{Guella1984}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 613,
+  "state": "$^2P_{1/2}$",
+  "year": 1984,
+  "z": 49
+}

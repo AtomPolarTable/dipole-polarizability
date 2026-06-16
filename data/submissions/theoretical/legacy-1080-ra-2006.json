@@ -1,0 +1,13 @@
+{
+  "alpha": "$246.2 \\pm 4.9$",
+  "atom": "Ra",
+  "category": "theoretical",
+  "comments": "R, DK + SO, CCSD(T)",
+  "refs": "[\\citenum{Maroulis2006, Lim2004}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 1080,
+  "state": "$^1S_0$",
+  "year": 2006,
+  "z": 88
+}

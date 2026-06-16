@@ -1,0 +1,13 @@
+{
+  "alpha": "$197.2 \\pm 3.6$",
+  "atom": "Sr",
+  "category": "experimental",
+  "comments": "R, Dirac, CI + MBPT + experimental data",
+  "refs": "[\\citenum{Porsev2006a, Porsev2008}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 485,
+  "state": "$^1S_0$",
+  "year": 2008,
+  "z": 38
+}

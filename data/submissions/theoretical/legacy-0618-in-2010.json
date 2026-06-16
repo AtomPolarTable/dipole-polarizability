@@ -1,0 +1,13 @@
+{
+  "alpha": "$66.4 \\pm 5.0/74.4 \\pm 8.0$",
+  "atom": "In",
+  "category": "theoretical",
+  "comments": "SI-SOCI, $M_J$ res.",
+  "refs": "[\\citenum{Buchachenko2010c}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 618,
+  "state": "$^2P_{1/2}/^2P_{3/2}$",
+  "year": 2010,
+  "z": 49
+}

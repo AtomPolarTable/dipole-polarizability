@@ -1,0 +1,13 @@
+{
+  "alpha": "$109 \\pm 27$",
+  "atom": "Hf",
+  "category": "theoretical",
+  "comments": "R, Dirac, LDA",
+  "refs": "[\\citenum{Lide2004, Doolen1987}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 865,
+  "state": "$^3F_2, 5d^2$",
+  "year": 2004,
+  "z": 72
+}

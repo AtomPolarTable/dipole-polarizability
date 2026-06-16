@@ -1,0 +1,13 @@
+{
+  "alpha": "$36.9$",
+  "atom": "Te",
+  "category": "theoretical",
+  "comments": "SIC-DFT (RXH)",
+  "refs": "[\\citenum{Gould2016b}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 657,
+  "state": "$^3P$",
+  "year": 2016,
+  "z": 52
+}

@@ -1,0 +1,13 @@
+{
+  "alpha": "$42.4 \\pm 11$",
+  "atom": "Sn",
+  "category": "experimental",
+  "comments": "exp.",
+  "refs": "[\\citenum{Thierfelder2008}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 634,
+  "state": "$^3P_0$",
+  "year": 2008,
+  "z": 50
+}

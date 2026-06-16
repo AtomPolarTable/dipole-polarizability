@@ -1,0 +1,13 @@
+{
+  "alpha": "$197.8$",
+  "atom": "Sr",
+  "category": "experimental",
+  "comments": "Combination of theoretical (CICP) and experimental methods",
+  "refs": "[\\citenum{Cheng2013}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 490,
+  "state": "$^1S_0$",
+  "year": 2013,
+  "z": 38
+}

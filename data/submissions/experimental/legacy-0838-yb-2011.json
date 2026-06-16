@@ -1,0 +1,13 @@
+{
+  "alpha": "$141 \\pm 6$",
+  "atom": "Yb",
+  "category": "experimental",
+  "comments": "\\makecell{R, Dirac, CI + MBPT + experimental data, \\\\see also ref [\\citenum{{Beloy2012}}] for error estimates}",
+  "refs": "[\\citenum{Dammalapati2011}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 838,
+  "state": "$^1S_0, 4f^{14}$",
+  "year": 2011,
+  "z": 70
+}

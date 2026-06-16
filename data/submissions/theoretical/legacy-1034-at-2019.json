@@ -1,0 +1,13 @@
+{
+  "alpha": "$38.15$",
+  "atom": "At",
+  "category": "theoretical",
+  "comments": "ECP, CCSD",
+  "refs": "[\\citenum{A.Manz2019}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 1034,
+  "state": "$^2P_{3/2}$",
+  "year": 2019,
+  "z": 85
+}

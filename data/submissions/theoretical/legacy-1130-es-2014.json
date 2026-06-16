@@ -1,0 +1,13 @@
+{
+  "alpha": "$117.5$",
+  "atom": "Es",
+  "category": "theoretical",
+  "comments": "\\makecell{R, Dirac, CI + MBPT + CP(RPA); \\\\($\\alpha_D$ = 146.1 for the $5f^{{10}} 6d^1$ configuration)}",
+  "refs": "[\\citenum{Dzuba2014}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 1130,
+  "state": "$5f^{11}$",
+  "year": 2014,
+  "z": 99
+}

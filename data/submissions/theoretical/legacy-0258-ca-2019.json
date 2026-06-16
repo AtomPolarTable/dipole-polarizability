@@ -1,0 +1,13 @@
+{
+  "alpha": "$157.61/159.81$",
+  "atom": "Ca",
+  "category": "theoretical",
+  "comments": "CCSD(T), R X2C-10/NR-10",
+  "refs": "[\\citenum{Visentin2019}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 258,
+  "state": "$^1S_0$",
+  "year": 2019,
+  "z": 20
+}

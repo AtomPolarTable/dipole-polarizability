@@ -1,0 +1,13 @@
+{
+  "alpha": "$86.92$",
+  "atom": "Ti",
+  "category": "theoretical",
+  "comments": "NR, CCSD",
+  "refs": "[\\citenum{A.Manz2019}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 290,
+  "state": "$^3F,3d^2$",
+  "year": 2019,
+  "z": 22
+}

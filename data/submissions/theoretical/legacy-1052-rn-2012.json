@@ -1,0 +1,13 @@
+{
+  "alpha": "$35.04 \\pm 1.8$",
+  "atom": "Rn",
+  "category": "theoretical",
+  "comments": "R, Dirac, CCSD(T)",
+  "refs": "[\\citenum{Hohm2012, Pershina2008}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 1052,
+  "state": "$^1S_0$",
+  "year": 2012,
+  "z": 86
+}

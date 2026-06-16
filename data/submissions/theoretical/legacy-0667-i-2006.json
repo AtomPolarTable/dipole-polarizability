@@ -1,0 +1,13 @@
+{
+  "alpha": "$33.0 \\pm 1.7$",
+  "atom": "I",
+  "category": "theoretical",
+  "comments": "R, DK, SO-CI",
+  "refs": "[\\citenum{Maroulis2006, Fleig2002, Sadlej1992}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 667,
+  "state": "$^2P_{3/2}$",
+  "year": 2006,
+  "z": 53
+}

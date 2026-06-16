@@ -1,0 +1,13 @@
+{
+  "alpha": "$2.676$",
+  "atom": "Ne",
+  "category": "theoretical",
+  "comments": "NR, PNNO-CEPA, $M_L$ res.",
+  "refs": "[\\citenum{Werner1976}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 93,
+  "state": "$^1S$",
+  "year": 1976,
+  "z": 10
+}

@@ -1,0 +1,13 @@
+{
+  "alpha": "$37.739 \\pm 0.030$",
+  "atom": "Be",
+  "category": "theoretical",
+  "comments": "R correction of -0.016 applied to value from ref [\\citenum{Komasa2001}]",
+  "refs": "[\\citenum{Komasa2001, Maroulis2006}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 32,
+  "state": "$^1S_0$",
+  "year": 2006,
+  "z": 4
+}

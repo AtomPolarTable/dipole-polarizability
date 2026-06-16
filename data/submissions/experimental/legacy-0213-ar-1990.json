@@ -1,0 +1,13 @@
+{
+  "alpha": "$11.070 \\pm 0.007$",
+  "atom": "Ar",
+  "category": "experimental",
+  "comments": "exp.",
+  "refs": "[\\citenum{Hohm1990, Johnston1960}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 213,
+  "state": "$^1S_0$",
+  "year": 1990,
+  "z": 18
+}

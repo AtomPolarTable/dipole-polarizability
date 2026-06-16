@@ -1,0 +1,13 @@
+{
+  "alpha": "$56.57$",
+  "atom": "Ni",
+  "category": "theoretical",
+  "comments": "R, CCSD(T)/ANO-RCC",
+  "refs": "[\\citenum{Szarek2019}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 367,
+  "state": "$^3F_4,3d^8$",
+  "year": 2019,
+  "z": 28
+}

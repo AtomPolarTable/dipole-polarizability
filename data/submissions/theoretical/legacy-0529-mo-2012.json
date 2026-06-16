@@ -1,0 +1,13 @@
+{
+  "alpha": "$73 \\pm 11$",
+  "atom": "Mo",
+  "category": "theoretical",
+  "comments": "R, DK, CASPT2",
+  "refs": "[\\citenum{Hohm2012, Roos2005}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 529,
+  "state": "$^7S, 4d^5$",
+  "year": 2012,
+  "z": 42
+}

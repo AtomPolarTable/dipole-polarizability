@@ -1,0 +1,13 @@
+{
+  "alpha": "$37.73 \\pm 0.04$",
+  "atom": "Be",
+  "category": "experimental",
+  "comments": "Combination of theoretical (CICP) and experimental data",
+  "refs": "[\\citenum{Jiang2015a, Cheng2013}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 35,
+  "state": "$^1S_0$",
+  "year": 2015,
+  "z": 4
+}

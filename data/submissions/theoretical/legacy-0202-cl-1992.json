@@ -1,0 +1,13 @@
+{
+  "alpha": "$14.6$",
+  "atom": "Cl",
+  "category": "theoretical",
+  "comments": "NR, CASPT2, $M_L$ res.",
+  "refs": "[\\citenum{Andersson1992}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 202,
+  "state": "$^2P$",
+  "year": 1992,
+  "z": 17
+}

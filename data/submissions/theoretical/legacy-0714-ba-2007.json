@@ -1,0 +1,13 @@
+{
+  "alpha": "$275.5 \\pm 5.5$",
+  "atom": "Ba",
+  "category": "theoretical",
+  "comments": "R, DK, CCSD(T)",
+  "refs": "[\\citenum{Sch\u00e4fer2007}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 714,
+  "state": "$^1S_0$",
+  "year": 2007,
+  "z": 56
+}

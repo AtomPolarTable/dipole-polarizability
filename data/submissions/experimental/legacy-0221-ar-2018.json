@@ -1,0 +1,13 @@
+{
+  "alpha": "$11.07718 \\pm 0.00064$",
+  "atom": "Ar",
+  "category": "experimental",
+  "comments": "exp.",
+  "refs": "[\\citenum{Gaiser2018}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 221,
+  "state": "$^1S_0$",
+  "year": 2018,
+  "z": 18
+}

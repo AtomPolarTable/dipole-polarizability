@@ -1,0 +1,13 @@
+{
+  "alpha": "$102.55$",
+  "atom": "Hf",
+  "category": "theoretical",
+  "comments": "ECP, CCSD",
+  "refs": "[\\citenum{A.Manz2019}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 871,
+  "state": "$^3F_2, 5d^2$",
+  "year": 2019,
+  "z": 72
+}

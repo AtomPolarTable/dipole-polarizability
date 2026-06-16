@@ -1,0 +1,13 @@
+{
+  "alpha": "$318.8 \\pm 1.4$",
+  "atom": "Rb",
+  "category": "experimental",
+  "comments": "exp.",
+  "refs": "[\\citenum{Holmgren2010}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 468,
+  "state": "$^2S_{1/2}$",
+  "year": 2010,
+  "z": 37
+}

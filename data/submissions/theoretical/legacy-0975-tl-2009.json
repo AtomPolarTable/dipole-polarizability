@@ -1,0 +1,13 @@
+{
+  "alpha": "$48.81$",
+  "atom": "Tl",
+  "category": "theoretical",
+  "comments": "R, Dirac, CI+MBPT",
+  "refs": "[\\citenum{Dzuba2009}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 975,
+  "state": "$^2P$",
+  "year": 2009,
+  "z": 81
+}

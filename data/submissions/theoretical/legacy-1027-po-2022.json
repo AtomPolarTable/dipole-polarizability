@@ -1,0 +1,13 @@
+{
+  "alpha": "$44.77$",
+  "atom": "Po",
+  "category": "theoretical",
+  "comments": "R (ZORA), CCSD(T)",
+  "refs": "[\\citenum{Centoducatte2022}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 1027,
+  "state": "$^3P_2$",
+  "year": 2022,
+  "z": 84
+}

@@ -1,0 +1,13 @@
+{
+  "alpha": "$84.22$",
+  "atom": "Ta",
+  "category": "theoretical",
+  "comments": "ECP, CCSD",
+  "refs": "[\\citenum{A.Manz2019}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 883,
+  "state": "$^4F_{3/2}, 5d^3$",
+  "year": 2019,
+  "z": 73
+}

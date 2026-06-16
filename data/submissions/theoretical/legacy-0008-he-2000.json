@@ -1,0 +1,13 @@
+{
+  "alpha": "$1.383191$",
+  "atom": "He",
+  "category": "theoretical",
+  "comments": "R, Dirac, Breit-Pauli, QED, mass pol, correlated basis ($^4$He)",
+  "refs": "[\\citenum{Pachucki2000}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 8,
+  "state": "$^1S_0$",
+  "year": 2000,
+  "z": 2
+}

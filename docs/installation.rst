@@ -51,9 +51,9 @@ To build the documentation using Sphinx into the `_build` directory:
 
 .. code-block:: bash
 
-    cd ./doc
+    cd ./docs
     ./gen_api.sh
-    sphinx-build -b html . _build
+    make html
 
 Dependencies
 ============

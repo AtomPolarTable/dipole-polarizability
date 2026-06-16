@@ -1,0 +1,13 @@
+{
+  "alpha": "$37.4 \\pm 0.1$",
+  "atom": "Si",
+  "category": "theoretical",
+  "comments": "NR, CCSD(T), $M_L$ res.",
+  "refs": "[\\citenum{Maroulis2003}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 171,
+  "state": "$^3P$",
+  "year": 2003,
+  "z": 14
+}

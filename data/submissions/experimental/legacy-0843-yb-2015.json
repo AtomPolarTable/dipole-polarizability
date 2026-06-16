@@ -1,0 +1,13 @@
+{
+  "alpha": "$147 \\pm 20$",
+  "atom": "Yb",
+  "category": "experimental",
+  "comments": "exp.",
+  "refs": "[\\citenum{Ma2015}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 843,
+  "state": "$^1S_0, 4f^{14}$",
+  "year": 2015,
+  "z": 70
+}

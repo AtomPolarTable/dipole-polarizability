@@ -1,0 +1,13 @@
+{
+  "alpha": "$123 \\pm 31$",
+  "atom": "Md",
+  "category": "theoretical",
+  "comments": "R, Dirac, LDA",
+  "refs": "[\\citenum{Lide2004, Doolen1987}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 1135,
+  "state": "$5f^{13}$",
+  "year": 2004,
+  "z": 101
+}

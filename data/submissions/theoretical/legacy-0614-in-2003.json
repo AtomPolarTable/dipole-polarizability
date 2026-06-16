@@ -1,0 +1,13 @@
+{
+  "alpha": "$68.67 \\pm 0.69$",
+  "atom": "In",
+  "category": "theoretical",
+  "comments": "R, DK, CCSD(T)",
+  "refs": "[\\citenum{Cernusak2003}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 614,
+  "state": "$^2P_{1/2}$",
+  "year": 2003,
+  "z": 49
+}

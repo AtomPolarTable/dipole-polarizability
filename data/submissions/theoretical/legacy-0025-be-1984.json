@@ -1,0 +1,13 @@
+{
+  "alpha": "$37.29$",
+  "atom": "Be",
+  "category": "theoretical",
+  "comments": "All-electron SCF plus valence CI",
+  "refs": "[\\citenum{M\u00fcller1984}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 25,
+  "state": "$^1S_0$",
+  "year": 1984,
+  "z": 4
+}

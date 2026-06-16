@@ -1,0 +1,13 @@
+{
+  "alpha": "$78.6$",
+  "atom": "Tc",
+  "category": "theoretical",
+  "comments": "R, CCSD(T)",
+  "refs": "[\\citenum{Buchachenko2010}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 540,
+  "state": "$^6S_{5/2}, 4d^5$",
+  "year": 2010,
+  "z": 43
+}

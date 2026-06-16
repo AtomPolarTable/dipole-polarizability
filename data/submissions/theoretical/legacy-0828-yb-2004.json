@@ -1,0 +1,13 @@
+{
+  "alpha": "$142 \\pm 36$",
+  "atom": "Yb",
+  "category": "theoretical",
+  "comments": "R, Dirac, LDA",
+  "refs": "[\\citenum{Lide2004, Doolen1987}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 828,
+  "state": "$^1S_0, 4f^{14}$",
+  "year": 2004,
+  "z": 70
+}

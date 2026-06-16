@@ -1,0 +1,13 @@
+{
+  "alpha": "$162.7 \\pm 0.5$",
+  "atom": "Na",
+  "category": "experimental",
+  "comments": "exp.",
+  "refs": "[\\citenum{Ekstrom1995}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 109,
+  "state": "$^2S_{1/2}$",
+  "year": 1995,
+  "z": 11
+}

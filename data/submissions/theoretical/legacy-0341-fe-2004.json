@@ -1,0 +1,13 @@
+{
+  "alpha": "$62.65$",
+  "atom": "Fe",
+  "category": "theoretical",
+  "comments": "NR, DFT, GGA(PW86)",
+  "refs": "[\\citenum{Calaminici2004}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 341,
+  "state": "$^5D,3d^6$",
+  "year": 2004,
+  "z": 26
+}

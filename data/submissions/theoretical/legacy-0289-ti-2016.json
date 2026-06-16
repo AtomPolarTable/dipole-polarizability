@@ -1,0 +1,13 @@
+{
+  "alpha": "$111.4$",
+  "atom": "Ti",
+  "category": "theoretical",
+  "comments": "TD-DFT (PGG)",
+  "refs": "[\\citenum{Gould2016b}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 289,
+  "state": "$^3F,3d^2$",
+  "year": 2016,
+  "z": 22
+}

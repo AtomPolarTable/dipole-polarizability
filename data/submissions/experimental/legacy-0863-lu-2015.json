@@ -1,0 +1,13 @@
+{
+  "alpha": "$124 \\pm 18$",
+  "atom": "Lu",
+  "category": "experimental",
+  "comments": "exp.",
+  "refs": "[\\citenum{Ma2015}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 863,
+  "state": "$^2D_{3/2}, 5d^1$",
+  "year": 2015,
+  "z": 71
+}

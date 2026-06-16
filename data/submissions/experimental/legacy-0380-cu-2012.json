@@ -1,0 +1,13 @@
+{
+  "alpha": "$54.7 \\pm 5.5$",
+  "atom": "Cu",
+  "category": "experimental",
+  "comments": "exp.",
+  "refs": "[\\citenum{Hohm2012, Sarkisov2006}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 380,
+  "state": "$^2S_{1/2},3d^{{10}}$",
+  "year": 2012,
+  "z": 29
+}

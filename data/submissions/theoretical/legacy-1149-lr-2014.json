@@ -1,0 +1,13 @@
+{
+  "alpha": "$320 \\pm 80$",
+  "atom": "Lr",
+  "category": "theoretical",
+  "comments": "R, DF, CI + MBPT + Breit + QED",
+  "refs": "[\\citenum{Dzuba2014a}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 1149,
+  "state": "$7p^1$",
+  "year": 2014,
+  "z": 103
+}

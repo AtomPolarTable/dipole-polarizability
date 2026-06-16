@@ -1,0 +1,13 @@
+{
+  "alpha": "$391.1$",
+  "atom": "Cs",
+  "category": "theoretical",
+  "comments": "SR, CCSD(T), ECP",
+  "refs": "[\\citenum{Smialkowski2021}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 706,
+  "state": "$^2S_{1/2}$",
+  "year": 2021,
+  "z": 55
+}

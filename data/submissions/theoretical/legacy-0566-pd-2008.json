@@ -1,0 +1,13 @@
+{
+  "alpha": "$26.612$",
+  "atom": "Pd",
+  "category": "theoretical",
+  "comments": "NR, ECP, CCSD(T)",
+  "refs": "[\\citenum{Bast2008}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 566,
+  "state": "$^1S_0, 4d^{10}$",
+  "year": 2008,
+  "z": 46
+}

@@ -1,0 +1,13 @@
+{
+  "alpha": "$171 \\pm 34$",
+  "atom": "Pa",
+  "category": "theoretical",
+  "comments": "R, Dirac, LDA",
+  "refs": "[\\citenum{Lide2004, Doolen1987}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 1098,
+  "state": "$5f^2 6d^1$",
+  "year": 2004,
+  "z": 91
+}

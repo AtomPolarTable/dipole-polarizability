@@ -1,0 +1,13 @@
+{
+  "alpha": "$115.46$",
+  "atom": "Sc",
+  "category": "theoretical",
+  "comments": "DFT",
+  "refs": "[\\citenum{Xi-Bo2009}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 271,
+  "state": "$^2D^{,3d1}$",
+  "year": 2009,
+  "z": 21
+}

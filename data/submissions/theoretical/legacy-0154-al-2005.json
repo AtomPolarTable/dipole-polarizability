@@ -1,0 +1,13 @@
+{
+  "alpha": "$55.4 \\pm 2.2/55.9 \\pm 2.2$",
+  "atom": "Al",
+  "category": "theoretical",
+  "comments": "R, Dirac, MRCI, $M_J$ res.",
+  "refs": "[\\citenum{Fleig2005}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 154,
+  "state": "$^2P_{1/2}/^2P_{3/2}$",
+  "year": 2005,
+  "z": 13
+}

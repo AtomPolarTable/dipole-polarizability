@@ -1,0 +1,13 @@
+{
+  "alpha": "$36.90 \\pm 0.63$",
+  "atom": "Si",
+  "category": "theoretical",
+  "comments": "NR, CCSD(T)",
+  "refs": "[\\citenum{Wang2021}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 178,
+  "state": "$^3P$",
+  "year": 2021,
+  "z": 14
+}

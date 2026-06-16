@@ -1,0 +1,13 @@
+{
+  "alpha": "$155 \\pm 25$",
+  "atom": "Eu",
+  "category": "experimental",
+  "comments": "exp.",
+  "refs": "[\\citenum{Ma2015}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 771,
+  "state": "$^8S_{7/2}, 4f^7$",
+  "year": 2015,
+  "z": 63
+}

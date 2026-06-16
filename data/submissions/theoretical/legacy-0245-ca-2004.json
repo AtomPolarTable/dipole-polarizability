@@ -1,0 +1,13 @@
+{
+  "alpha": "$158.0$",
+  "atom": "Ca",
+  "category": "theoretical",
+  "comments": "R, DK + SO, CCSD(T)",
+  "refs": "[\\citenum{Lim2004}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 245,
+  "state": "$^1S_0$",
+  "year": 2004,
+  "z": 20
+}

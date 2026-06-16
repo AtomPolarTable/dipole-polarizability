@@ -1,0 +1,13 @@
+{
+  "alpha": "$34.33$",
+  "atom": "Rn",
+  "category": "theoretical",
+  "comments": "R, SOPP, CCSD(T) + MP2 basis set correction",
+  "refs": "[\\citenum{Runeberg1998}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 1038,
+  "state": "$^1S_0$",
+  "year": 1998,
+  "z": 86
+}

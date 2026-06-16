@@ -1,0 +1,13 @@
+{
+  "alpha": "$29.3$",
+  "atom": "Se",
+  "category": "theoretical",
+  "comments": "TD-DFT (PGG)",
+  "refs": "[\\citenum{Gould2016b}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 439,
+  "state": "$^3P$",
+  "year": 2016,
+  "z": 34
+}

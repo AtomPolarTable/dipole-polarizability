@@ -1,0 +1,13 @@
+{
+  "alpha": "$11.0775 \\pm 0.0019$",
+  "atom": "Ar",
+  "category": "theoretical",
+  "comments": "\\makecell{R, DKH2, CCSD(T) + Breit-Pauli \\\\+ QED + finite nuclear mass and size}",
+  "refs": "[\\citenum{Lesiuk2023}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 224,
+  "state": "$^1S$",
+  "year": 2023,
+  "z": 18
+}

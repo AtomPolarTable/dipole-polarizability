@@ -1,0 +1,13 @@
+{
+  "alpha": "$157.9 \\pm 0.8$",
+  "atom": "Ca",
+  "category": "theoretical",
+  "comments": "R, DK, CCSD(T)",
+  "refs": "[\\citenum{Maroulis2006}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 250,
+  "state": "$^1S_0$",
+  "year": 2006,
+  "z": 20
+}

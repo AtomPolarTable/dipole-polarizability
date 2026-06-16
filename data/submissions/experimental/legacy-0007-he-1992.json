@@ -1,0 +1,13 @@
+{
+  "alpha": "$1.383746 \\pm 0.000007$",
+  "atom": "He",
+  "category": "experimental",
+  "comments": "exp.",
+  "refs": "[\\citenum{Newell1965, Schooley1992}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 7,
+  "state": "$^1S_0$",
+  "year": 1992,
+  "z": 2
+}

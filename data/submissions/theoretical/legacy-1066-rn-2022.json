@@ -1,0 +1,13 @@
+{
+  "alpha": "$34.6$",
+  "atom": "Rn",
+  "category": "theoretical",
+  "comments": "R (ZORA), DFT (B3LYP)",
+  "refs": "[\\citenum{Centoducatte2022}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 1066,
+  "state": "$^1S_0$",
+  "year": 2022,
+  "z": 86
+}

@@ -1,0 +1,13 @@
+{
+  "alpha": "$323 \\pm 80$",
+  "atom": "Lr",
+  "category": "theoretical",
+  "comments": "R, DF, CI + all-order + Breit + QED",
+  "refs": "[\\citenum{Dzuba2014a}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 1148,
+  "state": "$7p^1$",
+  "year": 2014,
+  "z": 103
+}

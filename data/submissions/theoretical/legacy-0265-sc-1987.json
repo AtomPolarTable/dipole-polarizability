@@ -1,0 +1,13 @@
+{
+  "alpha": "$138.8$",
+  "atom": "Sc",
+  "category": "theoretical",
+  "comments": "NR, small CI, VPA",
+  "refs": "[\\citenum{Glass1983, Glass1987}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 265,
+  "state": "$^2D^{,3d1}$",
+  "year": 1987,
+  "z": 21
+}

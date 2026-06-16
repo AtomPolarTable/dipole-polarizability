@@ -1,0 +1,13 @@
+{
+  "alpha": "$35.3$",
+  "atom": "Rn",
+  "category": "theoretical",
+  "comments": "R, Dirac-Gaunt, CCSD(T)",
+  "refs": "[\\citenum{Smits2018}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 1058,
+  "state": "$^1S_0$",
+  "year": 2018,
+  "z": 86
+}

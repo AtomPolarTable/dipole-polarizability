@@ -1,0 +1,13 @@
+{
+  "alpha": "$153 \\pm 38$",
+  "atom": "Bk",
+  "category": "theoretical",
+  "comments": "R, Dirac, LDA",
+  "refs": "[\\citenum{Lide2004, Doolen1987}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 1123,
+  "state": "$5f^9$",
+  "year": 2004,
+  "z": 97
+}

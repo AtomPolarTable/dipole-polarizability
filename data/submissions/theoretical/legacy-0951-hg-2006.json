@@ -1,0 +1,13 @@
+{
+  "alpha": "$34.73 \\pm 0.52$",
+  "atom": "Hg",
+  "category": "theoretical",
+  "comments": "R, DK, CCSD(T)",
+  "refs": "[\\citenum{Maroulis2006, Kell\u00f61996}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 951,
+  "state": "$^1S_0, 5d^{10}$",
+  "year": 2006,
+  "z": 80
+}

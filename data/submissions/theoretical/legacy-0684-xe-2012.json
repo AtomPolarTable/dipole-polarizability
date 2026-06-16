@@ -1,0 +1,13 @@
+{
+  "alpha": "$26.432$",
+  "atom": "Xe",
+  "category": "theoretical",
+  "comments": "R, DK3, CCSD",
+  "refs": "[\\citenum{Chattopadhyay2012}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 684,
+  "state": "$^1S_0$",
+  "year": 2012,
+  "z": 54
+}

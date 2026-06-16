@@ -1,0 +1,13 @@
+{
+  "alpha": "$54.48$",
+  "atom": "Sn",
+  "category": "theoretical",
+  "comments": "R, PP, DFT, BP386",
+  "refs": "[\\citenum{Assadollahzadeh2009}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 635,
+  "state": "$^3P_0$",
+  "year": 2009,
+  "z": 50
+}

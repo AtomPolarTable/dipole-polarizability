@@ -1,0 +1,13 @@
+{
+  "alpha": "$1.3837616 \\pm 0.0000027$",
+  "atom": "He",
+  "category": "experimental",
+  "comments": "exp.",
+  "refs": "[\\citenum{Gaiser2018}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 12,
+  "state": "$^1S_0$",
+  "year": 2018,
+  "z": 2
+}

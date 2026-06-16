@@ -1,0 +1,13 @@
+{
+  "alpha": "$169 \\pm 17$",
+  "atom": "Ca",
+  "category": "experimental",
+  "comments": "exp.",
+  "refs": "[\\citenum{Lide2004, Schwartz1974}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 246,
+  "state": "$^1S_0$",
+  "year": 2004,
+  "z": 20
+}

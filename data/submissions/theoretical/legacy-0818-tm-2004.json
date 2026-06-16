@@ -1,0 +1,13 @@
+{
+  "alpha": "$147 \\pm 37$",
+  "atom": "Tm",
+  "category": "theoretical",
+  "comments": "R, Dirac, LDA",
+  "refs": "[\\citenum{Lide2004, Doolen1987}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 818,
+  "state": "$4f^{13}$",
+  "year": 2004,
+  "z": 69
+}

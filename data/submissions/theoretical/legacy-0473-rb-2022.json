@@ -1,0 +1,13 @@
+{
+  "alpha": "$318.5 \\pm 0.6$",
+  "atom": "Rb",
+  "category": "theoretical",
+  "comments": "R, DHF, all orders",
+  "refs": "[\\citenum{Kaur2022}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 473,
+  "state": "$^2S_{1/2}$",
+  "year": 2022,
+  "z": 37
+}

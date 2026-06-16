@@ -1,0 +1,13 @@
+{
+  "alpha": "$316.2 \\pm 3.2$",
+  "atom": "Rb",
+  "category": "theoretical",
+  "comments": "R, DK, CCSD(T), AE",
+  "refs": "[\\citenum{Lim2005}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 465,
+  "state": "$^2S$",
+  "year": 2005,
+  "z": 37
+}

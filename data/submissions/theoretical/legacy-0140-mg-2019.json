@@ -1,0 +1,13 @@
+{
+  "alpha": "$71.2 \\pm 0.4$",
+  "atom": "Mg",
+  "category": "theoretical",
+  "comments": "recommended",
+  "refs": "[\\citenum{Schwerdtfeger2019}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 140,
+  "state": "$--$",
+  "year": 2019,
+  "z": 12
+}

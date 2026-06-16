@@ -1,0 +1,13 @@
+{
+  "alpha": "$141 \\pm 4$",
+  "atom": "Yb",
+  "category": "theoretical",
+  "comments": "R, DHF + Breit + QED, PP",
+  "refs": "[\\citenum{Wang1998}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 827,
+  "state": "$^1S_0, 4f^{14}$",
+  "year": 1998,
+  "z": 70
+}

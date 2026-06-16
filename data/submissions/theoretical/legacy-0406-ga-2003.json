@@ -1,0 +1,13 @@
+{
+  "alpha": "$52.91 \\pm 0.40$",
+  "atom": "Ga",
+  "category": "theoretical",
+  "comments": "R, DK, CCSD(T)",
+  "refs": "[\\citenum{Cernusak2003}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 406,
+  "state": "$^2P$",
+  "year": 2003,
+  "z": 31
+}

@@ -1,0 +1,13 @@
+{
+  "alpha": "$37.3$",
+  "atom": "Te",
+  "category": "theoretical",
+  "comments": "R, Dirac, CIPT+SD (RPA)",
+  "refs": "[\\citenum{Allehabi2022}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 661,
+  "state": "$^3P$",
+  "year": 2022,
+  "z": 52
+}

@@ -1,0 +1,13 @@
+{
+  "alpha": "$157.3$",
+  "atom": "Yb",
+  "category": "theoretical",
+  "comments": "TD-DFT",
+  "refs": "[\\citenum{Chu2007}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 831,
+  "state": "$^1S_0, 4f^{14}$",
+  "year": 2007,
+  "z": 70
+}

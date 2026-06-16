@@ -1,0 +1,13 @@
+{
+  "alpha": "$71.15/71.63$",
+  "atom": "Mg",
+  "category": "theoretical",
+  "comments": "CCSD(T), R X2C-0/NR-0",
+  "refs": "[\\citenum{Visentin2019}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 137,
+  "state": "$^1S_0$",
+  "year": 2019,
+  "z": 12
+}

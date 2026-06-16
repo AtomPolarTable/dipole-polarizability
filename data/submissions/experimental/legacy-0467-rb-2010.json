@@ -1,0 +1,13 @@
+{
+  "alpha": "$318.6 \\pm 0.6$",
+  "atom": "Rb",
+  "category": "experimental",
+  "comments": "R, SD all orders + exp. data",
+  "refs": "[\\citenum{Derevianko1999, Derevianko2010}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 467,
+  "state": "$^2S_{1/2}$",
+  "year": 2010,
+  "z": 37
+}

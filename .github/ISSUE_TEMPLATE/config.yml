@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: General question
+    url: https://github.com/AtomPolarTable/dipole-polarizability/discussions
+    about: Ask questions that are not data submissions.

@@ -1,0 +1,13 @@
+{
+  "alpha": "$70.5$",
+  "atom": "Mc",
+  "category": "theoretical",
+  "comments": "R, Dirac + Breit + QED, SD + CI, RPA",
+  "refs": "[\\citenum{Dzuba2016}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 1196,
+  "state": "$^4S_{3/2}$",
+  "year": 2016,
+  "z": 115
+}

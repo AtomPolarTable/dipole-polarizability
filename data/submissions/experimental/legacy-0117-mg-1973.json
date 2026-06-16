@@ -1,0 +1,13 @@
+{
+  "alpha": "$71.5 \\pm 3.5$",
+  "atom": "Mg",
+  "category": "experimental",
+  "comments": "exp.",
+  "refs": "[\\citenum{Lundin1973}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 117,
+  "state": "$^1S_0$",
+  "year": 1973,
+  "z": 12
+}

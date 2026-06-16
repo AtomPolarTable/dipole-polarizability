@@ -1,0 +1,13 @@
+{
+  "alpha": "$38.75$",
+  "atom": "Zn",
+  "category": "theoretical",
+  "comments": "R, PRCC(T)",
+  "refs": "[\\citenum{Chattopadhyay2015}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 398,
+  "state": "$^1S_0,3d^{{10}}$",
+  "year": 2015,
+  "z": 30
+}

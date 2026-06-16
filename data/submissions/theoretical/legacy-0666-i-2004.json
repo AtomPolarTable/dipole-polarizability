@@ -1,0 +1,13 @@
+{
+  "alpha": "$33.6$",
+  "atom": "I",
+  "category": "theoretical",
+  "comments": "SIC-DFT",
+  "refs": "[\\citenum{Chu2004}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 666,
+  "state": "$^2P$",
+  "year": 2004,
+  "z": 53
+}

@@ -1,0 +1,13 @@
+{
+  "alpha": "$199.0 \\pm 2.0$",
+  "atom": "Sr",
+  "category": "theoretical",
+  "comments": "R, CI, MBPT2",
+  "refs": "[\\citenum{Maroulis2006, Porsev2002}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 482,
+  "state": "$^1S$",
+  "year": 2006,
+  "z": 38
+}

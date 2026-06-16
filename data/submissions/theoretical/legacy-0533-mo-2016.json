@@ -1,0 +1,13 @@
+{
+  "alpha": "$82.7$",
+  "atom": "Mo",
+  "category": "theoretical",
+  "comments": "TD-DFT (PGG)",
+  "refs": "[\\citenum{Gould2016b}]",
+  "release_year": 2024,
+  "source": "legacy_database",
+  "source_row": 533,
+  "state": "$^7S_3, 4d^5$",
+  "year": 2016,
+  "z": 42
+}
