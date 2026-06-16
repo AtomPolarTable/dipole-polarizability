@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # PYDIPOLE: molecular density partition schemes based on HORTON package.
-# Copyright (C) 2023-2024 The PYDIPOLE Development Team
+# Copyright (C) 2023-2026 The PYDIPOLE Development Team
 #
 # This file is part of PYDIPOLE
 #
